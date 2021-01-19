@@ -10,9 +10,11 @@ import (
 	"go-module/database"
 	"go-module/processXml"
 	"io"
+	"math/rand"
 	"net/http"
 	"os"
 	"regexp"
+	"time"
 
 	"github.com/gocolly/colly"
 	"github.com/gosimple/slug"
@@ -29,6 +31,9 @@ func visitLink(urlSet processXml.Urlset, db *sql.DB) {
 	limit = len(urlSet.Urls)
 	limit = 1;
 	for i := 0; i < limit; i++ {
+		random := rand.Intn(5 - 1) + 1
+		time.Sleep(time.Duration(random) * time.Second)
+
 		c := colly.NewCollector(
 			colly.AllowedDomains("tech12h.com"),
 		)
