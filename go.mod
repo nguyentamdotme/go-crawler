@@ -6,6 +6,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.6.1 // indirect
 	github.com/antchfx/htmlquery v1.2.3 // indirect
 	github.com/antchfx/xmlquery v1.3.3 // indirect
+	github.com/cretz/bine v0.1.0
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/gocolly/colly v1.2.0
