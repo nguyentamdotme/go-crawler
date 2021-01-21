@@ -40,11 +40,15 @@ func visitLink(urlSet processXml.Urlset, db *sql.DB) {
 
 		c := colly.NewCollector(
 			colly.AllowedDomains("tech12h.com"),
+			colly.UserAgent("Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36"),
 		)
 		c.Limit(&colly.LimitRule{
 			Delay: 1 * time.Second,
 			RandomDelay: 1 * time.Second,
+			Parallelism: 2,
 		})
+
+		detail := e.Clone()
 
 		// rp, err := proxy.RoundRobinProxySwitcher("socks5://93.91.112.247:41258")
 		// if err != nil {
@@ -162,7 +166,16 @@ func visitLink(urlSet processXml.Urlset, db *sql.DB) {
 
 
 		c.OnRequest(func(r *colly.Request) {
+			r.Headers.Set("X-Requested-With", "XMLHttpRequest")
+			r.Headers.Set("Referrer", "https://tech12.com")
 			fmt.Println("Crawling... ", r.URL)
+		})
+
+		c.OnResponse(func(r *colly.Response) {
+			if strings.Index(r.Headers.Get("Content-Type"), "image") > -1 {
+				r.Save("./image/" + r.FileName())
+				return
+			}
 		})
 
 		c.Visit(urlSet.Urls[i].Loc)
