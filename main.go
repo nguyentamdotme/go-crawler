@@ -8,15 +8,19 @@ import (
 	"go-module/database"
 	"go-module/processXml"
 	"io"
-	"math/rand"
 	"net/http"
 	"os"
-	"regexp"
+	// "regexp"
+	// "math/rand"
 	"time"
+	// "md5"
+	// "hex"
 
 	"github.com/gocolly/colly"
 	"github.com/gosimple/slug"
 	"github.com/joho/godotenv"
+	// "github.com/gocolly/colly/proxy"
+
 )
 
 type Post struct {
