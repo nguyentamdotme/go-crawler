@@ -2,6 +2,8 @@ package main
 
 import (
 	"strings"
+	"sync"
+
 	// "encoding/hex"
 	"fmt"
 	"go-module/database"
@@ -40,17 +42,25 @@ func main() {
 }
 
 func visitLink(urlSet processXml.Urlset) {
-	maxConcurrentChannel := make(chan string, 5)
+	wg := new(sync.WaitGroup)
+	queueLink := make(chan string, 5)
 	var limit int
 	limit = len(urlSet.Urls)
 	limit = 2
 	for i := 0; i < limit; i++ {
-		link := urlSet.Urls[i].Loc
-		go fetchURL(link, maxConcurrentChannel)
+		queueLink <- urlSet.Urls[i].Loc
 	}
+
+	for i := 1; i<= 5; i++ {
+		wg.Add(1)
+		go fetchURL(wg, queueLink)
+	}
+	wg.Wait()
 }
 
-func fetchURL(link string, maxConcurrentChannel chan string) string{
+func fetchURL(wg *sync.WaitGroup, queueLink <-chan string) {
+	defer wg.Done()
+	link := <- queueLink
 	random := rand.Intn(5-1) + 1
 	time.Sleep(time.Duration(random) * time.Second)
 	fmt.Println("Start Crawl Post")
@@ -80,7 +90,7 @@ func fetchURL(link string, maxConcurrentChannel chan string) string{
 	})
 
 	c.Visit(link)
-	<- maxConcurrentChannel
+	<- link
 	return alias;
 }
 

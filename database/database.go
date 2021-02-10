@@ -9,7 +9,7 @@ import (
 func DBConn() (db *sql.DB) {
     dbDriver := "mysql"
     dbUser := "root"
-    dbPass := "root"
+    dbPass := ""
     dbName := "go-crawler"
     db, err := sql.Open(dbDriver, dbUser + ":" + dbPass + "@tcp(localhost:3306)/" + dbName)
     if err != nil {
