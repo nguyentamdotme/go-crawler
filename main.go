@@ -7,11 +7,12 @@ import (
 	"go-module/database"
 	"go-module/processXml"
 	"io"
+	"math/rand"
 	"net/http"
 	"os"
 	"regexp"
-	"math/rand"
 	"time"
+
 	// "md5"
 	// "hex"
 	"github.com/PuerkitoBio/goquery"
@@ -19,7 +20,6 @@ import (
 	"github.com/gosimple/slug"
 	"github.com/joho/godotenv"
 	// "github.com/gocolly/colly/proxy"
-
 )
 
 type Post struct {
@@ -40,6 +40,17 @@ func main() {
 }
 
 func visitLink(urlSet processXml.Urlset) {
+	maxConcurrentChannel := make(chan string, 5)
+	var limit int
+	limit = len(urlSet.Urls)
+	limit = 2
+	for i := 0; i < limit; i++ {
+		link := urlSet.Urls[i].Loc
+		go fetchURL(link, maxConcurrentChannel)
+	}
+}
+
+func fetchURL(link string, maxConcurrentChannel chan string) string{
 	random := rand.Intn(5-1) + 1
 	time.Sleep(time.Duration(random) * time.Second)
 	fmt.Println("Start Crawl Post")
@@ -53,28 +64,24 @@ func visitLink(urlSet processXml.Urlset) {
 	})
 
 	re := regexp.MustCompile("[^/]+$")
-	var limit int
-	limit = len(urlSet.Urls)
-	limit = 2
-	for i := 0; i < limit; i++ {
-		link := urlSet.Urls[i].Loc
-		alias := re.FindString(link);
-		alias = strings.Replace(alias, ".html", "", 1)
-		fmt.Println("Alias: ", alias)
-		c.OnRequest(func(r *colly.Request) {
-			fmt.Println("Crawling... ", r.URL)
-		})
+	alias := re.FindString(link);
+	alias = strings.Replace(alias, ".html", "", 1)
+	fmt.Println("Alias: ", alias)
+	c.OnRequest(func(r *colly.Request) {
+		fmt.Println("Crawling... ", r.URL)
+	})
 
-		c.OnHTML("html body.page-node", func(e *colly.HTMLElement) {
-			getPostPage(link, alias, e);
-		})
+	c.OnHTML("html body.page-node", func(e *colly.HTMLElement) {
+		getPostPage(link, alias, e);
+	})
 
-		c.OnHTML("html body.page-taxonomy", func(e *colly.HTMLElement) {
-			getCategoryPage(link, alias, e);
-		})
+	c.OnHTML("html body.page-taxonomy", func(e *colly.HTMLElement) {
+		getCategoryPage(link, alias, e);
+	})
 
-		c.Visit(link)
-	}
+	c.Visit(link)
+	<- maxConcurrentChannel
+	return alias;
 }
 
 func getPostPage(link string, alias string, e *colly.HTMLElement) bool {
