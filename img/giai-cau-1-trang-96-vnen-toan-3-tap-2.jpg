@@ -29,11 +29,11 @@
 <link type="text/css" rel="stylesheet" href="https://tech12h.com/sites/default/files/css/css_HdPA4qDCRg7DLCXxy_tKVOVInadGGXRk39FV63uI1I8.css" media="all" />
 
 <!--[if lte IE 7]>
-<link type="text/css" rel="stylesheet" href="https://tech12h.com/sites/all/themes/bartik/css/ie.css?qo44oa" media="all" />
+<link type="text/css" rel="stylesheet" href="https://tech12h.com/sites/all/themes/bartik/css/ie.css?qok5y9" media="all" />
 <![endif]-->
 
 <!--[if IE 6]>
-<link type="text/css" rel="stylesheet" href="https://tech12h.com/sites/all/themes/bartik/css/ie6.css?qo44oa" media="all" />
+<link type="text/css" rel="stylesheet" href="https://tech12h.com/sites/all/themes/bartik/css/ie6.css?qok5y9" media="all" />
 <![endif]-->
 <link type="text/css" rel="stylesheet" href="https://tech12h.com/sites/default/files/css/css_6j_kM_lFBpjKiiMCcWiOeu7BL5nIp-9slDeauzjyeCM.css" media="all" />
    <script type="text/x-mathjax-config">
@@ -58,7 +58,7 @@ MathJax.Hub.Config({
 <script type="text/javascript" src="https://tech12h.com/sites/default/files/js/js_ygvj28qnxFuBUrmKfZGBLu6RscHbQTEFO61moM_5pL0.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"nEjohdFhcBdBwk2hzewQM5zavd6R1-yWWcdvU43Vk2Y","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/prettify\/prettify.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/toc_filter\/toc_filter.js":1,"sites\/all\/modules\/prettify\/prettify.loader.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"sites\/all\/themes\/bartik\/js\/jquery.sticky.js":1,"sites\/all\/themes\/bartik\/js\/jquery.lockfixed.js":1,"sites\/all\/themes\/bartik\/js\/tech.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/toc_filter\/toc_filter.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"sites\/all\/modules\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/tb_megamenu\/css\/compatibility.css":1,"sites\/all\/themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/bartik\/css\/ie.css":1,"sites\/all\/themes\/bartik\/css\/ie6.css":1,"sites\/all\/libraries\/prettify\/prettify.css":1}},"prettify":{"linenums":false,"match":".content","nocode":"no-code","custom":[],"markup":{"code":true,"pre":true,"precode":true}},"toc_filter_smooth_scroll_duration":""});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"lYWy3AtvkdoVsZYkxuBoeeh7pMiHoaPd6Hi_MK0Qgw4","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/prettify\/prettify.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/toc_filter\/toc_filter.js":1,"sites\/all\/modules\/prettify\/prettify.loader.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"sites\/all\/themes\/bartik\/js\/jquery.sticky.js":1,"sites\/all\/themes\/bartik\/js\/jquery.lockfixed.js":1,"sites\/all\/themes\/bartik\/js\/tech.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/toc_filter\/toc_filter.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"sites\/all\/modules\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/tb_megamenu\/css\/compatibility.css":1,"sites\/all\/themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/bartik\/css\/ie.css":1,"sites\/all\/themes\/bartik\/css\/ie6.css":1,"sites\/all\/libraries\/prettify\/prettify.css":1}},"prettify":{"linenums":false,"match":".content","nocode":"no-code","custom":[],"markup":{"code":true,"pre":true,"precode":true}},"toc_filter_smooth_scroll_duration":""});
 //--><!]]>
 </script>
   <!-- IE Fix for HTML5 Tags -->
@@ -2191,7 +2191,7 @@ var currentScrollPos = window.pageYOffset;
 
                 <div class="thong_bao">
                     <h2> Thông tin cần biết</h2>
-                    <div class="view view-m-i-nh-t view-id-m_i_nh_t view-display-id-default view-dom-id-fcd3c69e46a6514b4036731bd09666aa">
+                    <div class="view view-m-i-nh-t view-id-m_i_nh_t view-display-id-default view-dom-id-72aee8be9e503d771f40114be1713526">
         
   
   
@@ -2244,7 +2244,7 @@ var currentScrollPos = window.pageYOffset;
 
               <div class="right_3">
                 <h2> Đề thi mới nhất</h2>
-                <div class="view view-m-i-nh-t view-id-m_i_nh_t view-display-id-block_1 view-dom-id-3c1e5f660ef0c8756c9993de194947cc">
+                <div class="view view-m-i-nh-t view-id-m_i_nh_t view-display-id-block_1 view-dom-id-daf985c07e93fff7e321627128af6f9b">
         
   
   

@@ -246,6 +246,7 @@ func insertData(data Post) bool{
 		insPost, err := db.Prepare("INSERT INTO posts (post_type, title, alias, avatar, content, slug, category, category_parent) VALUES(?, ?, ?, ?, ?, ?, ?, ?)")
 		handleError(err)
 		insPost.Exec(data.postType, data.title, data.alias, data.avatar, data.content, data.slugName, data.category, data.categoryParent)
+		defer db.Close()
 		return true
 	}
 
