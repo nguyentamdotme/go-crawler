@@ -48,7 +48,9 @@ func visitLink(urlSet processXml.Urlset) {
 	limit = len(urlSet.Urls)
 	limit = 2
 	for i := 0; i < limit; i++ {
-		queueLink <- urlSet.Urls[i].Loc
+		linkTemp := urlSet.Urls[i].Loc;
+		fmt.Println("Queue Link: ", linkTemp)
+		queueLink <- linkTemp
 	}
 
 	for i := 1; i<= 5; i++ {
@@ -58,7 +60,7 @@ func visitLink(urlSet processXml.Urlset) {
 	wg.Wait()
 }
 
-func fetchURL(wg *sync.WaitGroup, queueLink <-chan string) {
+func fetchURL(wg *sync.WaitGroup, queueLink <-chan string) string {
 	defer wg.Done()
 	link := <- queueLink
 	random := rand.Intn(5-1) + 1
@@ -90,7 +92,7 @@ func fetchURL(wg *sync.WaitGroup, queueLink <-chan string) {
 	})
 
 	c.Visit(link)
-	<- link
+	// <- link
 	return alias;
 }
 

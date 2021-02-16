@@ -1,0 +1,2342 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie" lang="en" dir="ltr"> <![endif]-->
+<!--[if gt IE 8]> <!--> <html class="" lang="vi" dir="ltr"> <!--<![endif]-->
+<head>
+  <title>Tài liệu học online, giải bài tập sgk và nhiều thủ thuật tin học hữu ích</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="Tài liệu học online, giải bài tập sgk và nhiều thủ thuật tin học hữu ích RSS" href="https://tech12h.com/rss.xml" />
+<link rel="shortcut icon" href="https://tech12h.com/sites/default/files/fa_0.png" type="image/png" />
+<meta name="description" content="Hướng dẫn giải bài tập SGK, tổng hợp những đề thi mẫu giúp học sinh học và thi tốt hơn. Cùng với những kiến thức tin học hữu ích" />
+<meta name="keywords" content="giải bài tập SGK, sưu tầm đề thi, bài tập mẫu, thủ thuật tin học" />
+<meta name="robots" content="follow, index" />
+<link rel="canonical" href="https://tech12h.com/" />
+<meta property="og:site_name" content="Tài liệu học online, giải bài tập sgk và nhiều thủ thuật tin học hữu ích" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://tech12h.com/" />
+<meta property="og:title" content="Tài liệu học online, giải bài tập sgk và nhiều thủ thuật tin học hữu ích" />
+<meta property="og:description" content="Hướng dẫn giải bài tập SGK, tổng hợp những đề thi mẫu giúp học sinh học và thi tốt hơn. Cùng với những kiến thức tin học hữu ích" />
+<meta property="og:image" content="https://tech12h.com/sites/all/themes/bartik/chu.png" />
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width" />
+
+  <link type="text/css" rel="stylesheet" href="https://tech12h.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://tech12h.com/sites/default/files/css/css_RkebH-sSEgO55lymQnM84YEtFbQkxLwSIzTxgWLDKpE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://tech12h.com/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://tech12h.com/sites/default/files/css/css_r6g3jNcQgn6e-x6XrUf4bnUNywmeOqVqT0wt_mQ7MPM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://tech12h.com/sites/default/files/css/css_HdPA4qDCRg7DLCXxy_tKVOVInadGGXRk39FV63uI1I8.css" media="all" />
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://tech12h.com/sites/all/themes/bartik/css/ie.css?qo44oa" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://tech12h.com/sites/all/themes/bartik/css/ie6.css?qo44oa" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://tech12h.com/sites/default/files/css/css_6j_kM_lFBpjKiiMCcWiOeu7BL5nIp-9slDeauzjyeCM.css" media="all" />
+   <script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  extensions: ['tex2jax.js'],
+  jax: ['input/TeX','output/HTML-CSS'],
+  tex2jax: {
+    inlineMath: [ ['$','$'], ['\\(','\\)'] ],
+    processEscapes: true,
+    processClass: 'tex2jax',
+    ignoreClass: 'html'
+  },
+  showProcessingMessages: false,
+  messageStyle: 'none'
+});
+</script>
+ <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js"></script>
+  <script type="text/javascript" src="https://tech12h.com/sites/default/files/js/js_bHixdNqIm_fGV7c3IlqVJl-OQXz4T0rdcigI0kCjuGg.js"></script>
+<script type="text/javascript" src="https://tech12h.com/sites/default/files/js/js_wMq06n34El81cPtKvKVuAehyOEwepE71d1W2gGcEjDE.js"></script>
+<script type="text/javascript" src="https://tech12h.com/sites/default/files/js/js_Ha5_wTQSNhDrho9uEY2XZJqakXyd2vt-inyllUCZKCc.js"></script>
+<script type="text/javascript" src="https://tech12h.com/sites/default/files/js/js_BgqwRusDHqCAhYreNBfik3DXbTUCle4f3zePO5Ut1Ck.js"></script>
+<script type="text/javascript" src="https://tech12h.com/sites/default/files/js/js_ygvj28qnxFuBUrmKfZGBLu6RscHbQTEFO61moM_5pL0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"nEjohdFhcBdBwk2hzewQM5zavd6R1-yWWcdvU43Vk2Y","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/prettify\/prettify.js":1,"sites\/all\/modules\/ctools\/js\/jump-menu.js":1,"sites\/all\/modules\/toc_filter\/toc_filter.js":1,"sites\/all\/modules\/prettify\/prettify.loader.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-frontend.js":1,"sites\/all\/modules\/tb_megamenu\/js\/tb-megamenu-touch.js":1,"sites\/all\/themes\/bartik\/js\/jquery.sticky.js":1,"sites\/all\/themes\/bartik\/js\/jquery.lockfixed.js":1,"sites\/all\/themes\/bartik\/js\/tech.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/toc_filter\/toc_filter.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"sites\/all\/modules\/tb_megamenu\/css\/bootstrap.css":1,"sites\/all\/modules\/tb_megamenu\/css\/base.css":1,"sites\/all\/modules\/tb_megamenu\/css\/default.css":1,"sites\/all\/modules\/tb_megamenu\/css\/compatibility.css":1,"sites\/all\/themes\/bartik\/css\/style.css":1,"sites\/all\/themes\/bartik\/css\/ie.css":1,"sites\/all\/themes\/bartik\/css\/ie6.css":1,"sites\/all\/libraries\/prettify\/prettify.css":1}},"prettify":{"linenums":false,"match":".content","nocode":"no-code","custom":[],"markup":{"code":true,"pre":true,"precode":true}},"toc_filter_smooth_scroll_duration":""});
+//--><!]]>
+</script>
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-2123039763821226",
+          enable_page_level_ads: true
+     });
+</script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-63309547-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-63309547-1');
+</script>
+ <!-- start menu -->
+<script>
+var prevScrollpos = window.pageYOffset;
+window.onscroll = function() {
+var currentScrollPos = window.pageYOffset;
+  if (prevScrollpos > currentScrollPos) {
+    document.getElementById("header").style.top = "0";
+  } else {
+    document.getElementById("header").style.top = "-50px";
+  }
+  prevScrollpos = currentScrollPos;
+}
+</script>
+  <!-- start new -->
+
+		  <!-- start new -->
+
+</head>
+
+<body class="html front not-logged-in no-sidebars page-node" >
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu">
+    <div class="section clearfix">
+        <div class="site_name">
+          <div class="logo_tech">
+                      <a class="show_d" href="/" title="Giải bài tập SGK" rel="home" id="logo">
+              <img src="https://tech12h.com/sites/default/files/logo_0_0_0.png" alt="Home" />
+            </a>
+            <a class="show_m" href="/" title="Home" rel="home" id="logo">
+              <img src="/sites/all/themes/bartik/images/logo_duoi.jpg" alt="Home" />
+            </a>
+          
+                      <div id="name-and-slogan">
+              
+            </div> <!-- /#name-and-slogan -->
+          </div>
+          <div class="login_fb"><a href="#"><img src="../sites/all/themes/bartik/images/lfb.png">SĐT: 0386 168 725</a></div>            </div>
+                  </div>
+            <div class="region region-header">
+    <div id="block-tb-megamenu-menu-menu-left" class="block block-tb-megamenu">
+
+    
+  <div class="content">
+    <div  class="tb-megamenu tb-megamenu-menu-menu-left" role="navigation" aria-label="Main navigation">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button">
+      <i class="fa fa-reorder"></i>
+    </button>
+    <div class="nav-collapse ">
+    <ul  class="tb-megamenu-nav nav level-0 items-13">
+    <li  data-id="16600" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+            <a href="/cong-nghe/lop-12.html"  class="dropdown-toggle" title="Lớp 12">
+                    Lớp 12                        <span class="caret"></span>
+                            </a>
+        <div  data-class="" data-width="800" style="width: 800px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="4" data-hidewcol="0" id="tb-megamenu-column-1" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-15">
+    <li  data-id="16601" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-12.html"  title="Soạn văn 12">
+                    Soạn văn 12                            </a>
+          </li>
+
+  <li  data-id="16602" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-12-tap-1.html"  title="Soạn văn 12 tập 1">
+                    Soạn văn 12 tập 1                            </a>
+          </li>
+
+  <li  data-id="16603" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-12-tap-2.html"  title="Soạn văn 12 tập 2">
+                    Soạn văn 12 tập 2                            </a>
+          </li>
+
+  <li  data-id="16604" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-12-tap-1-gian-luoc.html"  title="Soạn văn 12 tập 1 giản lược">
+                    Soạn văn 12 tập 1 giản lược                            </a>
+          </li>
+
+  <li  data-id="16605" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-12-tap-2-gian-luoc.html"  title="Soạn văn 12 tập 2 giản lược">
+                    Soạn văn 12 tập 2 giản lược                            </a>
+          </li>
+
+  <li  data-id="16606" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/van-mau-12.html"  title="Văn mẫu 12">
+                    Văn mẫu 12                            </a>
+          </li>
+
+  <li  data-id="16607" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-lop-12.html"  title="Toán lớp 12">
+                    Toán lớp 12                            </a>
+          </li>
+
+  <li  data-id="16608" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-tich-lop-12.html"  title="Giải tích lớp 12">
+                    Giải tích lớp 12                            </a>
+          </li>
+
+  <li  data-id="16609" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/hinh-hoc-lop-12.html"  title="Hình học lớp 12">
+                    Hình học lớp 12                            </a>
+          </li>
+
+  <li  data-id="16610" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/hoa-hoc-12.html"  title="Hoá học 12">
+                    Hoá học 12                            </a>
+          </li>
+
+  <li  data-id="16611" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/gdcd-12.html"  title="GDCD 12">
+                    GDCD 12                            </a>
+          </li>
+
+  <li  data-id="16612" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-gdcd-12.html"  title="Giải GDCD 12">
+                    Giải GDCD 12                            </a>
+          </li>
+
+  <li  data-id="16613" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vat-ly-lop-12.html"  title="Vật lý lớp 12">
+                    Vật lý lớp 12                            </a>
+          </li>
+
+  <li  data-id="16614" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-sinh-hoc-12.html"  title="Giải sgk sinh học 12">
+                    Giải sgk sinh học 12                            </a>
+          </li>
+
+  <li  data-id="16615" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tieng-anh-12.html"  title="Tiếng anh 12">
+                    Tiếng anh 12                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-2" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-15">
+    <li  data-id="16616" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/lich-su-12.html"  title="Lịch sử 12">
+                    Lịch sử 12                            </a>
+          </li>
+
+  <li  data-id="16617" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-vat-li-12.html"  title="Giải sgk vật lí 12">
+                    Giải sgk vật lí 12                            </a>
+          </li>
+
+  <li  data-id="16618" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/dia-li-12.html"  title="Địa lí 12">
+                    Địa lí 12                            </a>
+          </li>
+
+  <li  data-id="16619" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/sgk-tieng-anh-12.html"  title="Sgk tiếng Anh 12">
+                    Sgk tiếng Anh 12                            </a>
+          </li>
+
+  <li  data-id="16620" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tieng-anh-12-sach-moi.html"  title="Tiếng Anh 12 - sách mới">
+                    Tiếng Anh 12 - sách mới                            </a>
+          </li>
+
+  <li  data-id="16621" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tap-ban-do-dia-li-12.html"  title="Tập bản đồ địa lí 12">
+                    Tập bản đồ địa lí 12                            </a>
+          </li>
+
+  <li  data-id="16622" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-ngu-van-12.html"  title="Trắc nghiệm ngữ văn 12">
+                    Trắc nghiệm ngữ văn 12                            </a>
+          </li>
+
+  <li  data-id="16623" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-sinh-hoc-12.html"  title="Trắc nghiệm sinh học 12">
+                    Trắc nghiệm sinh học 12                            </a>
+          </li>
+
+  <li  data-id="16624" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-tieng-anh-12.html"  title="Trắc nghiệm tiếng Anh 12">
+                    Trắc nghiệm tiếng Anh 12                            </a>
+          </li>
+
+  <li  data-id="16625" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-toan-12.html"  title="Trắc nghiệm toán 12">
+                    Trắc nghiệm toán 12                            </a>
+          </li>
+
+  <li  data-id="16626" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-dia-ly-12.html"  title="Trắc nghiệm địa lý 12">
+                    Trắc nghiệm địa lý 12                            </a>
+          </li>
+
+  <li  data-id="16627" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-hoa-hoc-12.html"  title="Trắc nghiệm hóa học 12">
+                    Trắc nghiệm hóa học 12                            </a>
+          </li>
+
+  <li  data-id="16628" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-vat-ly-12.html"  title="Trắc nghiệm vật lý 12">
+                    Trắc nghiệm vật lý 12                            </a>
+          </li>
+
+  <li  data-id="16629" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-lich-su-12.html"  title="Trắc nghiệm lịch sử 12">
+                    Trắc nghiệm lịch sử 12                            </a>
+          </li>
+
+  <li  data-id="16630" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-gdcd-12.html"  title="Trắc nghiệm GDCD 12">
+                    Trắc nghiệm GDCD 12                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-3" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-14">
+    <li  data-id="16631" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/chuyen-de-hoa-12.html"  title="Chuyên đề Hoá 12">
+                    Chuyên đề Hoá 12                            </a>
+          </li>
+
+  <li  data-id="16632" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/chuyen-de-van-12.html"  title="Chuyên đề Văn 12">
+                    Chuyên đề Văn 12                            </a>
+          </li>
+
+  <li  data-id="16633" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/chuyen-de-toan-12.html"  title="Chuyên đề Toán 12">
+                    Chuyên đề Toán 12                            </a>
+          </li>
+
+  <li  data-id="16634" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/chuyen-de-sinh-12.html"  title="Chuyên đề Sinh 12">
+                    Chuyên đề Sinh 12                            </a>
+          </li>
+
+  <li  data-id="16635" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/chuyen-de-dia-li-12.html"  title="Chuyên đề Địa lí 12">
+                    Chuyên đề Địa lí 12                            </a>
+          </li>
+
+  <li  data-id="16636" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/de-thi-tieng-anh-12.html"  title="Đề thi tiếng Anh 12">
+                    Đề thi tiếng Anh 12                            </a>
+          </li>
+
+  <li  data-id="16637" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/de-thi-dia-li-12.html"  title="Đề thi Địa lí 12">
+                    Đề thi Địa lí 12                            </a>
+          </li>
+
+  <li  data-id="16638" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/de-thi-van-12.html"  title="Đề thi văn 12">
+                    Đề thi văn 12                            </a>
+          </li>
+
+  <li  data-id="16639" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/de-thi-hoa-12.html"  title="Đề thi Hoá 12">
+                    Đề thi Hoá 12                            </a>
+          </li>
+
+  <li  data-id="16640" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/de-thi-toan-12.html"  title="Đề ôn thi Toán 12">
+                    Đề ôn thi Toán 12                            </a>
+          </li>
+
+  <li  data-id="16641" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/de-thi-vat-ly-12.html"  title="Đề thi Vật Lý 12">
+                    Đề thi Vật Lý 12                            </a>
+          </li>
+
+  <li  data-id="16642" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/de-thi-sinh-12.html"  title="Đề thi Sinh 12">
+                    Đề thi Sinh 12                            </a>
+          </li>
+
+  <li  data-id="16643" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/de-thi-gdcd-12.html"  title="Đề ôn thi GDCD 12">
+                    Đề ôn thi GDCD 12                            </a>
+          </li>
+
+  <li  data-id="16644" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/de-thi-lich-su-12.html"  title="Đề thi Lịch Sử 12">
+                    Đề thi Lịch Sử 12                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="16645" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+            <a href="/cong-nghe/lop-11.html"  class="dropdown-toggle" title="Lớp 11">
+                    Lớp 11                        <span class="caret"></span>
+                            </a>
+        <div  data-class="" data-width="800" style="width: 800px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="4" data-hidewcol="0" id="tb-megamenu-column-4" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-10">
+    <li  data-id="16646" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-11.html"  title="Soạn văn 11">
+                    Soạn văn 11                            </a>
+          </li>
+
+  <li  data-id="16647" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-11-tap-1.html"  title="Soạn văn 11 tập 1">
+                    Soạn văn 11 tập 1                            </a>
+          </li>
+
+  <li  data-id="16648" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-11-tap-2.html"  title="Soạn văn 11 tập 2">
+                    Soạn văn 11 tập 2                            </a>
+          </li>
+
+  <li  data-id="16649" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-11-tap-2-gian-luoc.html"  title="Soạn văn 11 tập 2 giản lược">
+                    Soạn văn 11 tập 2 giản lược                            </a>
+          </li>
+
+  <li  data-id="16650" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-11-tap-1-gian-luoc.html"  title="Soạn văn 11 tập 1 giản lược">
+                    Soạn văn 11 tập 1 giản lược                            </a>
+          </li>
+
+  <li  data-id="16651" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/van-mau-11.html"  title="Văn mẫu 11">
+                    Văn mẫu 11                            </a>
+          </li>
+
+  <li  data-id="16652" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-ngu-van-11.html"  title="Trắc nghiệm ngữ văn 11">
+                    Trắc nghiệm ngữ văn 11                            </a>
+          </li>
+
+  <li  data-id="16653" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/dai-so-va-giai-tich-lop-11.html"  title="Đại số và giải tích lớp 11">
+                    Đại số và giải tích lớp 11                            </a>
+          </li>
+
+  <li  data-id="16654" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/hinh-hoc-lop-11.html"  title="Hình học lớp 11">
+                    Hình học lớp 11                            </a>
+          </li>
+
+  <li  data-id="16655" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-hoa-hoc-11.html"  title="Giải sgk hoá học 11">
+                    Giải sgk hoá học 11                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-5" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-10">
+    <li  data-id="16656" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-gdcd-11.html"  title="Giải sgk GDCD 11">
+                    Giải sgk GDCD 11                            </a>
+          </li>
+
+  <li  data-id="16657" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/hoa-hoc-11.html"  title="Hoá học 11">
+                    Hoá học 11                            </a>
+          </li>
+
+  <li  data-id="16658" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vat-li-11.html"  title="Vật lí 11">
+                    Vật lí 11                            </a>
+          </li>
+
+  <li  data-id="16659" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tieng-anh-11.html"  title="Tiếng Anh 11">
+                    Tiếng Anh 11                            </a>
+          </li>
+
+  <li  data-id="16660" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/sgk-tieng-anh-11-moi.html"  title="Sgk Tiếng anh 11 mới">
+                    Sgk Tiếng anh 11 mới                            </a>
+          </li>
+
+  <li  data-id="16661" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/sbt-tieng-anh-11.html"  title="SBT tiếng Anh 11">
+                    SBT tiếng Anh 11                            </a>
+          </li>
+
+  <li  data-id="16662" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-sinh-hoc-11.html"  title="Giải sgk sinh học 11">
+                    Giải sgk sinh học 11                            </a>
+          </li>
+
+  <li  data-id="16663" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-lich-su-11.html"  title="Giải sgk lịch sử 11">
+                    Giải sgk lịch sử 11                            </a>
+          </li>
+
+  <li  data-id="16664" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-dia-li-11.html"  title="Giải sgk địa lí 11">
+                    Giải sgk địa lí 11                            </a>
+          </li>
+
+  <li  data-id="16665" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tap-ban-do-dia-li-11.html"  title="Tập bản đồ địa lí 11">
+                    Tập bản đồ địa lí 11                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-6" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-10">
+    <li  data-id="16666" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-gdcd-11.html"  title="Giải GDCD 11">
+                    Giải GDCD 11                            </a>
+          </li>
+
+  <li  data-id="16668" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-hinh-hoc-11.html"  title="Trắc nghiệm hình học 11">
+                    Trắc nghiệm hình học 11                            </a>
+          </li>
+
+  <li  data-id="16669" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-sinh-hoc-11.html"  title="Trắc nghiệm sinh học 11">
+                    Trắc nghiệm sinh học 11                            </a>
+          </li>
+
+  <li  data-id="16670" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-toan-11.html"  title="Trắc nghiệm Toán 11">
+                    Trắc nghiệm Toán 11                            </a>
+          </li>
+
+  <li  data-id="16671" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-vat-ly-11.html"  title="Trắc nghiệm vật lý 11">
+                    Trắc nghiệm vật lý 11                            </a>
+          </li>
+
+  <li  data-id="16672" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-hoa-11.html"  title="Trắc nghiệm hóa học 11">
+                    Trắc nghiệm hóa học 11                            </a>
+          </li>
+
+  <li  data-id="16673" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-gdcd-11.html"  title="Trắc nghiệm GDCD 11">
+                    Trắc nghiệm GDCD 11                            </a>
+          </li>
+
+  <li  data-id="16674" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-lich-su-11.html"  title="Trắc nghiệm Lịch sử 11">
+                    Trắc nghiệm Lịch sử 11                            </a>
+          </li>
+
+  <li  data-id="16675" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-dia-ly-11.html"  title="Trắc nghiệm địa lý 11">
+                    Trắc nghiệm địa lý 11                            </a>
+          </li>
+
+  <li  data-id="16676" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-tieng-anh-11.html"  title="Trắc nghiệm tiếng Anh 11">
+                    Trắc nghiệm tiếng Anh 11                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="16677" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+            <a href="/cong-nghe/lop-10.html"  class="dropdown-toggle" title="Lớp 10">
+                    Lớp 10                        <span class="caret"></span>
+                            </a>
+        <div  data-class="" data-width="800" style="width: 800px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="4" data-hidewcol="0" id="tb-megamenu-column-7" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-10">
+    <li  data-id="16678" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/ngu-van-10.html"  title="Ngữ văn 10">
+                    Ngữ văn 10                            </a>
+          </li>
+
+  <li  data-id="16679" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-10-tap-1.html"  title="Soạn văn 10 tập 1">
+                    Soạn văn 10 tập 1                            </a>
+          </li>
+
+  <li  data-id="16680" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-10-tap-2.html"  title="Soạn văn 10 tập 2">
+                    Soạn văn 10 tập 2                            </a>
+          </li>
+
+  <li  data-id="16681" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-10-tap-1-gian-luoc.html"  title="Soạn văn 10 tập 1 giản lược">
+                    Soạn văn 10 tập 1 giản lược                            </a>
+          </li>
+
+  <li  data-id="16682" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-10-tap-2-gian-luoc.html"  title="Soạn văn 10 tập 2 giản lược">
+                    Soạn văn 10 tập 2 giản lược                            </a>
+          </li>
+
+  <li  data-id="16683" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-ngu-van-10.html"  title="Trắc nghiệm ngữ văn 10">
+                    Trắc nghiệm ngữ văn 10                            </a>
+          </li>
+
+  <li  data-id="16684" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/van-mau-10.html"  title="Văn mẫu 10">
+                    Văn mẫu 10                            </a>
+          </li>
+
+  <li  data-id="16685" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/dai-so-lop-10.html"  title="Đại số lớp 10">
+                    Đại số lớp 10                            </a>
+          </li>
+
+  <li  data-id="16686" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/hinh-hoc-lop-10.html"  title="Hình học lớp 10">
+                    Hình học lớp 10                            </a>
+          </li>
+
+  <li  data-id="16687" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-hoa-hoc-10.html"  title="Giải sgk hoá học 10">
+                    Giải sgk hoá học 10                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-8" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-10">
+    <li  data-id="16688" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-vat-li-10.html"  title="Giải sgk vật lí 10">
+                    Giải sgk vật lí 10                            </a>
+          </li>
+
+  <li  data-id="16689" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-sinh-hoc-10.html"  title="Giải sgk sinh học 10">
+                    Giải sgk sinh học 10                            </a>
+          </li>
+
+  <li  data-id="16690" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-tieng-anh-10.html"  title="Giải sgk tiếng anh 10">
+                    Giải sgk tiếng anh 10                            </a>
+          </li>
+
+  <li  data-id="16691" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/sgk-tieng-anh-10-moi.html"  title="Sgk Tiếng anh 10 mới">
+                    Sgk Tiếng anh 10 mới                            </a>
+          </li>
+
+  <li  data-id="16692" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/lich-su-10.html"  title="Lịch sử 10">
+                    Lịch sử 10                            </a>
+          </li>
+
+  <li  data-id="16693" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-dia-li-10.html"  title="Giải sgk Địa lí 10">
+                    Giải sgk Địa lí 10                            </a>
+          </li>
+
+  <li  data-id="16694" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-gdcd-10.html"  title="Giải GDCD 10">
+                    Giải GDCD 10                            </a>
+          </li>
+
+  <li  data-id="16695" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/gdcd-10.html"  title="GDCD 10">
+                    GDCD 10                            </a>
+          </li>
+
+  <li  data-id="16696" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tap-ban-do-dia-li-10.html"  title="Tập bản đồ địa lí 10">
+                    Tập bản đồ địa lí 10                            </a>
+          </li>
+
+  <li  data-id="16697" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-sinh-10.html"  title="Trắc nghiệm sinh 10">
+                    Trắc nghiệm sinh 10                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-9" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-9">
+    <li  data-id="16698" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-sinh-hoc-10.html"  title="Trắc nghiệm sinh học 10">
+                    Trắc nghiệm sinh học 10                            </a>
+          </li>
+
+  <li  data-id="16699" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-dai-so-10.html"  title="Trắc nghiệm đại số 10">
+                    Trắc nghiệm đại số 10                            </a>
+          </li>
+
+  <li  data-id="16700" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-hinh-hoc-10.html"  title="Trắc nghiệm hình học 10">
+                    Trắc nghiệm hình học 10                            </a>
+          </li>
+
+  <li  data-id="16701" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-tieng-anh-10.html"  title="Trắc nghiệm tiếng Anh 10">
+                    Trắc nghiệm tiếng Anh 10                            </a>
+          </li>
+
+  <li  data-id="16702" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-dia-ly-10.html"  title="Trắc nghiệm địa lý 10">
+                    Trắc nghiệm địa lý 10                            </a>
+          </li>
+
+  <li  data-id="16703" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-vat-ly-10.html"  title="Trắc nghiệm vật lý 10">
+                    Trắc nghiệm vật lý 10                            </a>
+          </li>
+
+  <li  data-id="16704" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-hoa-hoc-10.html"  title="Trắc nghiệm hóa học 10">
+                    Trắc nghiệm hóa học 10                            </a>
+          </li>
+
+  <li  data-id="16705" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-lich-su-10.html"  title="Trắc nghiệm lịch sử 10">
+                    Trắc nghiệm lịch sử 10                            </a>
+          </li>
+
+  <li  data-id="16706" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-gdcd-10.html"  title="Trắc nghiệm GDCD 10">
+                    Trắc nghiệm GDCD 10                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="16707" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+            <a href="/cong-nghe/lop-9.html"  class="dropdown-toggle" title="Lớp 9">
+                    Lớp 9                        <span class="caret"></span>
+                            </a>
+        <div  data-class="" data-width="800" style="width: 800px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="4" data-hidewcol="0" id="tb-megamenu-column-10" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-14">
+    <li  data-id="16708" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/ngu-van-9.html"  title="Ngữ văn 9">
+                    Ngữ văn 9                            </a>
+          </li>
+
+  <li  data-id="16709" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-9-tap-1.html"  title="Soạn văn 9 tập 1">
+                    Soạn văn 9 tập 1                            </a>
+          </li>
+
+  <li  data-id="16710" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-9-tap-2.html"  title="Soạn văn 9 tập 2">
+                    Soạn văn 9 tập 2                            </a>
+          </li>
+
+  <li  data-id="16711" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-9-tap-1-gian-luoc.html"  title="Soạn văn 9 tập 1 giản lược">
+                    Soạn văn 9 tập 1 giản lược                            </a>
+          </li>
+
+  <li  data-id="16712" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-9-tap-2-gian-luoc.html"  title="Soạn văn 9 tập 2 giản lược">
+                    Soạn văn 9 tập 2 giản lược                            </a>
+          </li>
+
+  <li  data-id="16713" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-9-tap-1.html"  title="Toán 9 tập 1">
+                    Toán 9 tập 1                            </a>
+          </li>
+
+  <li  data-id="16714" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-9-tap-2.html"  title="Toán 9 tập 2">
+                    Toán 9 tập 2                            </a>
+          </li>
+
+  <li  data-id="16715" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/gdcd-9.html"  title="GDCD 9">
+                    GDCD 9                            </a>
+          </li>
+
+  <li  data-id="16716" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-hoa-hoc-9.html"  title="Giải sgk hoá học 9">
+                    Giải sgk hoá học 9                            </a>
+          </li>
+
+  <li  data-id="16717" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/van-mau-lop-9.html"  title="Văn mẫu lớp 9">
+                    Văn mẫu lớp 9                            </a>
+          </li>
+
+  <li  data-id="16718" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-vat-li-9.html"  title="Giải sgk vật lí 9">
+                    Giải sgk vật lí 9                            </a>
+          </li>
+
+  <li  data-id="16719" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tieng-anh-9.html"  title="Tiếng Anh 9">
+                    Tiếng Anh 9                            </a>
+          </li>
+
+  <li  data-id="16720" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tieng-anh-9-moi.html"  title="Tiếng anh 9 - mới">
+                    Tiếng anh 9 - mới                            </a>
+          </li>
+
+  <li  data-id="16721" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-sinh-hoc-9.html"  title="Giải sgk sinh học 9">
+                    Giải sgk sinh học 9                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-11" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-13">
+    <li  data-id="16722" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-dia-li-9.html"  title="Giải sgk địa lí 9">
+                    Giải sgk địa lí 9                            </a>
+          </li>
+
+  <li  data-id="16723" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tap-ban-do-dia-li-9.html"  title="Tập bản đồ địa lí 9">
+                    Tập bản đồ địa lí 9                            </a>
+          </li>
+
+  <li  data-id="16724" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-lich-su-9.html"  title="Giải sgk lịch sử 9">
+                    Giải sgk lịch sử 9                            </a>
+          </li>
+
+  <li  data-id="16725" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-gdcd-9.html"  title="Giải sgk GDCD 9">
+                    Giải sgk GDCD 9                            </a>
+          </li>
+
+  <li  data-id="16726" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-hoa-9.html"  title="Trắc nghiệm hóa 9">
+                    Trắc nghiệm hóa 9                            </a>
+          </li>
+
+  <li  data-id="16727" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-ngu-van-9.html"  title="Trắc nghiệm ngữ văn 9">
+                    Trắc nghiệm ngữ văn 9                            </a>
+          </li>
+
+  <li  data-id="16728" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-lich-su-9.html"  title="Trắc nghiệm lịch sử 9">
+                    Trắc nghiệm lịch sử 9                            </a>
+          </li>
+
+  <li  data-id="16729" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-sinh-hoc-9.html"  title="Trắc nghiệm sinh học 9">
+                    Trắc nghiệm sinh học 9                            </a>
+          </li>
+
+  <li  data-id="16730" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-tieng-anh-9.html"  title="Trắc nghiệm tiếng Anh 9">
+                    Trắc nghiệm tiếng Anh 9                            </a>
+          </li>
+
+  <li  data-id="16731" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-vat-li-9.html"  title="Trắc nghiệm vật lí 9">
+                    Trắc nghiệm vật lí 9                            </a>
+          </li>
+
+  <li  data-id="16732" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-dia-li-9.html"  title="Trắc nghiệm địa lí 9">
+                    Trắc nghiệm địa lí 9                            </a>
+          </li>
+
+  <li  data-id="16733" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-toan-9.html"  title="Trắc nghiệm toán 9">
+                    Trắc nghiệm toán 9                            </a>
+          </li>
+
+  <li  data-id="16734" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-gdcd-9.html"  title="Trắc nghiệm GDCD 9">
+                    Trắc nghiệm GDCD 9                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-12" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-13">
+    <li  data-id="16735" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/de-thi-len-10-toan.html"  title="Đề thi lên 10 Toán">
+                    Đề thi lên 10 Toán                            </a>
+          </li>
+
+  <li  data-id="16736" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/de-thi-len-10-chuyen-toan.html"  title="Đề thi lên 10 chuyên Toán">
+                    Đề thi lên 10 chuyên Toán                            </a>
+          </li>
+
+  <li  data-id="16737" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-ngu-van-9-tap-1.html"  title="VNEN ngữ văn 9 tập 1">
+                    VNEN ngữ văn 9 tập 1                            </a>
+          </li>
+
+  <li  data-id="16738" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-ngu-van-9-tap-2.html"  title="VNEN ngữ văn 9 tập 2">
+                    VNEN ngữ văn 9 tập 2                            </a>
+          </li>
+
+  <li  data-id="16739" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-van-9-tap-1-gian-luoc.html"  title="VNEN văn 9 tập 1 giản lược">
+                    VNEN văn 9 tập 1 giản lược                            </a>
+          </li>
+
+  <li  data-id="16740" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-van-9-tap-2-gian-luoc.html"  title="VNEN văn 9 tập 2 giản lược">
+                    VNEN văn 9 tập 2 giản lược                            </a>
+          </li>
+
+  <li  data-id="16741" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-vnen-9-tap-1.html"  title="Toán VNEN 9 tập 1">
+                    Toán VNEN 9 tập 1                            </a>
+          </li>
+
+  <li  data-id="16742" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-vnen-9-tap-2.html"  title="Toán VNEN 9 tập 2">
+                    Toán VNEN 9 tập 2                            </a>
+          </li>
+
+  <li  data-id="16743" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/chuyen-de-tap-hoa-9.html"  title="Chuyên đề ôn tập Hóa 9">
+                    Chuyên đề ôn tập Hóa 9                            </a>
+          </li>
+
+  <li  data-id="16744" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-cong-nghe-9.html"  title="VNEN công nghệ 9">
+                    VNEN công nghệ 9                            </a>
+          </li>
+
+  <li  data-id="16745" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/khoa-hoc-tu-nhien-9.html"  title="Khoa học tự nhiên 9">
+                    Khoa học tự nhiên 9                            </a>
+          </li>
+
+  <li  data-id="16746" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/gdcd-vnen-lop-9.html"  title="GDCD VNEN lớp 9">
+                    GDCD VNEN lớp 9                            </a>
+          </li>
+
+  <li  data-id="16747" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/khoa-hoc-xa-hoi-9.html"  title="Khoa học xã hội 9">
+                    Khoa học xã hội 9                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="16748" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+            <a href="/cong-nghe/lop-8.html"  class="dropdown-toggle" title="Lớp 8">
+                    Lớp 8                        <span class="caret"></span>
+                            </a>
+        <div  data-class="" data-width="800" style="width: 800px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="4" data-hidewcol="0" id="tb-megamenu-column-13" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-13">
+    <li  data-id="16749" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/ngu-van-8.html"  title="Ngữ văn 8">
+                    Ngữ văn 8                            </a>
+          </li>
+
+  <li  data-id="16750" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-8-tap-1.html"  title="Soạn văn 8 tập 1">
+                    Soạn văn 8 tập 1                            </a>
+          </li>
+
+  <li  data-id="16751" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-8-tap-2.html"  title="Soạn văn 8 tập 2">
+                    Soạn văn 8 tập 2                            </a>
+          </li>
+
+  <li  data-id="16752" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-8-tap-1-gian-luoc.html"  title="Soạn văn 8 tập 1 giản lược">
+                    Soạn văn 8 tập 1 giản lược                            </a>
+          </li>
+
+  <li  data-id="16753" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-8-tap-2-gian-luoc.html"  title="Soạn văn 8 tập 2 giản lược">
+                    Soạn văn 8 tập 2 giản lược                            </a>
+          </li>
+
+  <li  data-id="16754" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/van-mau-lop-8.html"  title="Văn mẫu lớp 8">
+                    Văn mẫu lớp 8                            </a>
+          </li>
+
+  <li  data-id="16755" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-8-tap-1.html"  title="Toán 8 tập 1">
+                    Toán 8 tập 1                            </a>
+          </li>
+
+  <li  data-id="16756" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-8-tap-2.html"  title="Toán 8 tập 2">
+                    Toán 8 tập 2                            </a>
+          </li>
+
+  <li  data-id="16757" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-hoa-hoc-8.html"  title="Giải sgk hoá học 8">
+                    Giải sgk hoá học 8                            </a>
+          </li>
+
+  <li  data-id="16758" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-vat-li-8.html"  title="Giải sgk vật lí 8">
+                    Giải sgk vật lí 8                            </a>
+          </li>
+
+  <li  data-id="16759" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-sinh-hoc-8.html"  title="Giải sgk sinh học 8">
+                    Giải sgk sinh học 8                            </a>
+          </li>
+
+  <li  data-id="16760" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-tieng-anh-8.html"  title="Giải sgk tiếng Anh 8">
+                    Giải sgk tiếng Anh 8                            </a>
+          </li>
+
+  <li  data-id="16761" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tieng-anh-8-moi.html"  title="Tiếng anh 8 - mới">
+                    Tiếng anh 8 - mới                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-14" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-12">
+    <li  data-id="16762" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-lich-su-8.html"  title="Giải sgk lịch sử 8">
+                    Giải sgk lịch sử 8                            </a>
+          </li>
+
+  <li  data-id="16763" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-dia-li-8.html"  title="Giải sgk địa lí 8">
+                    Giải sgk địa lí 8                            </a>
+          </li>
+
+  <li  data-id="16764" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tap-ban-do-dia-li-8.html"  title="Tập bản đồ địa lí 8">
+                    Tập bản đồ địa lí 8                            </a>
+          </li>
+
+  <li  data-id="16765" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-gdcd-8.html"  title="Giải sgk GDCD 8">
+                    Giải sgk GDCD 8                            </a>
+          </li>
+
+  <li  data-id="16766" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-vat-li-8.html"  title="Trắc nghiệm vật lí 8">
+                    Trắc nghiệm vật lí 8                            </a>
+          </li>
+
+  <li  data-id="16767" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-hoa-8.html"  title="Trắc nghiệm hóa 8">
+                    Trắc nghiệm hóa 8                            </a>
+          </li>
+
+  <li  data-id="16768" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-lich-su-8.html"  title="Trắc nghiệm lịch sử 8">
+                    Trắc nghiệm lịch sử 8                            </a>
+          </li>
+
+  <li  data-id="16769" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-sinh-hoc-8.html"  title="Trắc nghiệm sinh học 8">
+                    Trắc nghiệm sinh học 8                            </a>
+          </li>
+
+  <li  data-id="16770" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-tieng-anh-8.html"  title="Trắc nghiệm tiếng Anh 8">
+                    Trắc nghiệm tiếng Anh 8                            </a>
+          </li>
+
+  <li  data-id="16771" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-dia-li-8.html"  title="Trắc nghiệm địa lí 8">
+                    Trắc nghiệm địa lí 8                            </a>
+          </li>
+
+  <li  data-id="16772" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-toan-8.html"  title="Trắc nghiệm toán 8">
+                    Trắc nghiệm toán 8                            </a>
+          </li>
+
+  <li  data-id="16773" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-gdcd-8.html"  title="Trắc nghiệm GDCD 8">
+                    Trắc nghiệm GDCD 8                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-15" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-10">
+    <li  data-id="16774" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-ngu-van-8-tap-1.html"  title="VNEN ngữ văn 8 tập 1">
+                    VNEN ngữ văn 8 tập 1                            </a>
+          </li>
+
+  <li  data-id="16775" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-ngu-van-8-tap-2.html"  title="VNEN ngữ văn 8 tập 2">
+                    VNEN ngữ văn 8 tập 2                            </a>
+          </li>
+
+  <li  data-id="16776" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-van-8-tap-1-gian-luoc.html"  title="VNEN văn 8 tập 1 giản lược">
+                    VNEN văn 8 tập 1 giản lược                            </a>
+          </li>
+
+  <li  data-id="16777" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-van-8-tap-2-gian-luoc.html"  title="VNEN văn 8 tập 2 giản lược">
+                    VNEN văn 8 tập 2 giản lược                            </a>
+          </li>
+
+  <li  data-id="16778" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-vnen-8-tap-1.html"  title="Toán VNEN 8 tập 1">
+                    Toán VNEN 8 tập 1                            </a>
+          </li>
+
+  <li  data-id="16779" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-vnen-8-tap-2.html"  title="Toán VNEN 8 tập 2">
+                    Toán VNEN 8 tập 2                            </a>
+          </li>
+
+  <li  data-id="16780" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-gdcd-8.html"  title="VNEN GDCD 8">
+                    VNEN GDCD 8                            </a>
+          </li>
+
+  <li  data-id="16781" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-cong-nghe-8.html"  title="VNEN công nghệ 8">
+                    VNEN công nghệ 8                            </a>
+          </li>
+
+  <li  data-id="16782" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/khoa-hoc-tu-nhien-8.html"  title="Khoa học tự nhiên 8">
+                    Khoa học tự nhiên 8                            </a>
+          </li>
+
+  <li  data-id="16783" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/khoa-hoc-xa-hoi-8.html"  title="Khoa học xã hội 8">
+                    Khoa học xã hội 8                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="16784" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+            <a href="/cong-nghe/lop-7.html"  class="dropdown-toggle" title="Lớp 7">
+                    Lớp 7                        <span class="caret"></span>
+                            </a>
+        <div  data-class="" data-width="800" style="width: 800px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="4" data-hidewcol="0" id="tb-megamenu-column-16" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-13">
+    <li  data-id="16785" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-7-tap-1.html"  title="Soạn văn 7 tập 1">
+                    Soạn văn 7 tập 1                            </a>
+          </li>
+
+  <li  data-id="16786" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-7-tap-2.html"  title="Soạn văn 7 tập 2">
+                    Soạn văn 7 tập 2                            </a>
+          </li>
+
+  <li  data-id="16787" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/ngu-van-7.html"  title="Ngữ văn 7">
+                    Ngữ văn 7                            </a>
+          </li>
+
+  <li  data-id="16788" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-7-tap-1-gian-luoc.html"  title="Soạn văn 7 tập 1 giản lược">
+                    Soạn văn 7 tập 1 giản lược                            </a>
+          </li>
+
+  <li  data-id="16789" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-7-tap-2-gian-luoc.html"  title="Soạn văn 7 tập 2 giản lược">
+                    Soạn văn 7 tập 2 giản lược                            </a>
+          </li>
+
+  <li  data-id="16790" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/van-mau-lop-7.html"  title="Văn mẫu lớp 7">
+                    Văn mẫu lớp 7                            </a>
+          </li>
+
+  <li  data-id="16791" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-7-tap-1.html"  title="Toán 7 tập 1">
+                    Toán 7 tập 1                            </a>
+          </li>
+
+  <li  data-id="16792" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-7-tap-2.html"  title="Toán 7 tập 2">
+                    Toán 7 tập 2                            </a>
+          </li>
+
+  <li  data-id="16793" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-lop-7.html"  title="Toán lớp 7">
+                    Toán lớp 7                            </a>
+          </li>
+
+  <li  data-id="16794" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-vat-li-7.html"  title="Giải sgk vật lí 7">
+                    Giải sgk vật lí 7                            </a>
+          </li>
+
+  <li  data-id="16795" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-sinh-hoc-7.html"  title="Giải sgk sinh học 7">
+                    Giải sgk sinh học 7                            </a>
+          </li>
+
+  <li  data-id="16796" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tieng-anh-7.html"  title="Tiếng Anh 7">
+                    Tiếng Anh 7                            </a>
+          </li>
+
+  <li  data-id="16797" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/lich-su-7.html"  title="Lịch sử 7">
+                    Lịch sử 7                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-17" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-12">
+    <li  data-id="16798" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-dia-li-7.html"  title="Giải sgk địa lí 7">
+                    Giải sgk địa lí 7                            </a>
+          </li>
+
+  <li  data-id="16799" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tap-ban-do-dia-li-7.html"  title="Tập bản đồ địa lí 7">
+                    Tập bản đồ địa lí 7                            </a>
+          </li>
+
+  <li  data-id="16800" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/gdcd-7.html"  title="GDCD 7">
+                    GDCD 7                            </a>
+          </li>
+
+  <li  data-id="16801" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-gdcd-7.html"  title="Giải sgk GDCD 7">
+                    Giải sgk GDCD 7                            </a>
+          </li>
+
+  <li  data-id="16802" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-toan-7.html"  title="Trắc nghiệm toán 7">
+                    Trắc nghiệm toán 7                            </a>
+          </li>
+
+  <li  data-id="16803" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-lich-su-7.html"  title="Trắc nghiệm lịch sử 7">
+                    Trắc nghiệm lịch sử 7                            </a>
+          </li>
+
+  <li  data-id="16804" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-sinh-hoc-7.html"  title="Trắc nghiệm sinh học 7">
+                    Trắc nghiệm sinh học 7                            </a>
+          </li>
+
+  <li  data-id="16805" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-tieng-anh-7.html"  title="Trắc nghiệm tiếng Anh 7">
+                    Trắc nghiệm tiếng Anh 7                            </a>
+          </li>
+
+  <li  data-id="16806" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-dia-li-7.html"  title="Trắc nghiệm Địa lí 7">
+                    Trắc nghiệm Địa lí 7                            </a>
+          </li>
+
+  <li  data-id="16807" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-gdcd-7.html"  title="Trắc nghiệm GDCD 7">
+                    Trắc nghiệm GDCD 7                            </a>
+          </li>
+
+  <li  data-id="16808" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-vat-li-7.html"  title="Trắc nghiệm vật lí 7">
+                    Trắc nghiệm vật lí 7                            </a>
+          </li>
+
+  <li  data-id="16809" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tieng-anh-7-vnen.html"  title="Tiếng anh 7 VNEN">
+                    Tiếng anh 7 VNEN                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-18" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-12">
+    <li  data-id="16810" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/khoa-hoc-tu-nhien-7.html"  title="Khoa học tự nhiên 7">
+                    Khoa học tự nhiên 7                            </a>
+          </li>
+
+  <li  data-id="16811" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-ngu-van-7-tap-1.html"  title="VNEN ngữ văn 7 tập 1">
+                    VNEN ngữ văn 7 tập 1                            </a>
+          </li>
+
+  <li  data-id="16812" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-ngu-van-7-tap-2.html"  title="VNEN ngữ văn 7 tập 2">
+                    VNEN ngữ văn 7 tập 2                            </a>
+          </li>
+
+  <li  data-id="16813" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tieng-anh-7-tap-2-vnen.html"  title="Tiếng anh 7 Tập 2 VNEN">
+                    Tiếng anh 7 Tập 2 VNEN                            </a>
+          </li>
+
+  <li  data-id="16814" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tieng-anh-7-tap-1-vnen.html"  title="Tiếng anh 7 VNEN Tập 1">
+                    Tiếng anh 7 VNEN Tập 1                            </a>
+          </li>
+
+  <li  data-id="16815" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-van-7-tap-1-gian-luoc.html"  title="VNEN văn 7 tập 1 giản lược">
+                    VNEN văn 7 tập 1 giản lược                            </a>
+          </li>
+
+  <li  data-id="16816" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-van-7-tap-2-gian-luoc.html"  title="VNEN văn 7 tập 2 giản lược">
+                    VNEN văn 7 tập 2 giản lược                            </a>
+          </li>
+
+  <li  data-id="16817" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-vnen-7-tap-1.html"  title="Toán VNEN 7 tập 1">
+                    Toán VNEN 7 tập 1                            </a>
+          </li>
+
+  <li  data-id="16818" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-vnen-7-tap-2.html"  title="Toán VNEN 7 tập 2">
+                    Toán VNEN 7 tập 2                            </a>
+          </li>
+
+  <li  data-id="16819" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-cong-nghe-7.html"  title="VNEN công nghệ 7">
+                    VNEN công nghệ 7                            </a>
+          </li>
+
+  <li  data-id="16820" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-gdcd-7.html"  title="VNEN GDCD 7">
+                    VNEN GDCD 7                            </a>
+          </li>
+
+  <li  data-id="16821" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/khoa-hoc-xa-hoi-7.html"  title="Khoa học xã hội 7">
+                    Khoa học xã hội 7                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="16822" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+            <a href="/cong-nghe/lop-6.html"  class="dropdown-toggle" title="Lớp 6">
+                    Lớp 6                        <span class="caret"></span>
+                            </a>
+        <div  data-class="" data-width="670" style="width: 670px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="4" data-hidewcol="0" id="tb-megamenu-column-19" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-11">
+    <li  data-id="16823" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-6-tap-1.html"  title="Soạn văn 6 tập 1">
+                    Soạn văn 6 tập 1                            </a>
+          </li>
+
+  <li  data-id="16824" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-6-tap-2.html"  title="Soạn văn 6 tập 2">
+                    Soạn văn 6 tập 2                            </a>
+          </li>
+
+  <li  data-id="16825" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-6-tap-1-gian-luoc.html"  title="Soạn văn 6 tập 1 giản lược">
+                    Soạn văn 6 tập 1 giản lược                            </a>
+          </li>
+
+  <li  data-id="16826" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-6-tap-2-gian-luoc.html"  title="Soạn văn 6 tập 2 giản lược">
+                    Soạn văn 6 tập 2 giản lược                            </a>
+          </li>
+
+  <li  data-id="16827" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/van-mau-lop-6.html"  title="Văn mẫu lớp 6">
+                    Văn mẫu lớp 6                            </a>
+          </li>
+
+  <li  data-id="16828" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-6-tap-1.html"  title="Toán 6 tập 1">
+                    Toán 6 tập 1                            </a>
+          </li>
+
+  <li  data-id="16829" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-6-tap-2.html"  title="Toán 6 tập 2">
+                    Toán 6 tập 2                            </a>
+          </li>
+
+  <li  data-id="16830" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-vat-li-6.html"  title="Giải sgk vật lí 6">
+                    Giải sgk vật lí 6                            </a>
+          </li>
+
+  <li  data-id="16831" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-sinh-hoc-6.html"  title="Giải sgk sinh học 6">
+                    Giải sgk sinh học 6                            </a>
+          </li>
+
+  <li  data-id="16832" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-tieng-anh-6.html"  title="Giải sgk tiếng Anh 6">
+                    Giải sgk tiếng Anh 6                            </a>
+          </li>
+
+  <li  data-id="16833" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tieng-anh-6-moi.html"  title="Tiếng anh 6 mới">
+                    Tiếng anh 6 mới                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-20" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-12">
+    <li  data-id="16834" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sbt-tieng-anh-6.html"  title="Giải SBT tiếng Anh 6">
+                    Giải SBT tiếng Anh 6                            </a>
+          </li>
+
+  <li  data-id="16835" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tieng-anh-6-moi-tap-2.html"  title="Tiếng anh 6 mới - Tập 2">
+                    Tiếng anh 6 mới - Tập 2                            </a>
+          </li>
+
+  <li  data-id="16836" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-dia-li-6.html"  title="Giải sgk địa lí 6">
+                    Giải sgk địa lí 6                            </a>
+          </li>
+
+  <li  data-id="16837" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tap-ban-do-dia-li-6.html"  title="Tập bản đồ địa lí 6">
+                    Tập bản đồ địa lí 6                            </a>
+          </li>
+
+  <li  data-id="16838" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/soan-van-6.html"  title="Soạn văn 6">
+                    Soạn văn 6                            </a>
+          </li>
+
+  <li  data-id="16839" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/lich-su-6.html"  title="Lịch sử 6">
+                    Lịch sử 6                            </a>
+          </li>
+
+  <li  data-id="16840" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-gdcd-6.html"  title="Giải sgk GDCD 6">
+                    Giải sgk GDCD 6                            </a>
+          </li>
+
+  <li  data-id="16841" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/gdcd-6.html"  title="GDCD 6">
+                    GDCD 6                            </a>
+          </li>
+
+  <li  data-id="16842" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-vat-li-6.html"  title="Trắc nghiệm vật lí 6">
+                    Trắc nghiệm vật lí 6                            </a>
+          </li>
+
+  <li  data-id="16843" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-lich-su-6.html"  title="Trắc nghiệm lịch sử 6">
+                    Trắc nghiệm lịch sử 6                            </a>
+          </li>
+
+  <li  data-id="16844" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-sinh-hoc-6.html"  title="Trắc nghiệm sinh học 6">
+                    Trắc nghiệm sinh học 6                            </a>
+          </li>
+
+  <li  data-id="16845" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-tieng-anh-6.html"  title="Trắc nghiệm tiếng Anh 6">
+                    Trắc nghiệm tiếng Anh 6                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-21" class="tb-megamenu-column span4  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-12">
+    <li  data-id="16846" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-toan-6.html"  title="Trắc nghiệm toán 6">
+                    Trắc nghiệm toán 6                            </a>
+          </li>
+
+  <li  data-id="16847" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-gdcd-6.html"  title="Trắc nghiệm GDCD 6">
+                    Trắc nghiệm GDCD 6                            </a>
+          </li>
+
+  <li  data-id="16848" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-ngu-van-6-tap-1.html"  title="VNEN ngữ văn 6 tập 1">
+                    VNEN ngữ văn 6 tập 1                            </a>
+          </li>
+
+  <li  data-id="16849" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-ngu-van-6-tap-2.html"  title="VNEN ngữ văn 6 tập 2">
+                    VNEN ngữ văn 6 tập 2                            </a>
+          </li>
+
+  <li  data-id="16850" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-vnen-lop-6.html"  title="Toán VNEN lớp 6">
+                    Toán VNEN lớp 6                            </a>
+          </li>
+
+  <li  data-id="16851" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-cong-nghe-6.html"  title="VNEN công nghệ 6">
+                    VNEN công nghệ 6                            </a>
+          </li>
+
+  <li  data-id="16852" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-gdcd-6.html"  title="VNEN GDCD 6">
+                    VNEN GDCD 6                            </a>
+          </li>
+
+  <li  data-id="16853" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-van-6-tap-2-gian-luoc.html"  title="VNEN văn 6 tập 2 giản lược">
+                    VNEN văn 6 tập 2 giản lược                            </a>
+          </li>
+
+  <li  data-id="16854" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-dia-li-6.html"  title="Trắc nghiệm Địa lí 6">
+                    Trắc nghiệm Địa lí 6                            </a>
+          </li>
+
+  <li  data-id="16855" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-van-6-tap-1-gian-luoc.html"  title="VNEN văn 6 tập 1 giản lược">
+                    VNEN văn 6 tập 1 giản lược                            </a>
+          </li>
+
+  <li  data-id="16856" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/khoa-hoc-tu-nhien-6.html"  title="Khoa học tự nhiên 6">
+                    Khoa học tự nhiên 6                            </a>
+          </li>
+
+  <li  data-id="16857" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/khoa-hoc-xa-hoi-6.html"  title="Khoa học xã hội 6">
+                    Khoa học xã hội 6                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="16858" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+            <a href="/cong-nghe/lop-5.html"  class="dropdown-toggle" title="Lớp 5">
+                    Lớp 5                        <span class="caret"></span>
+                            </a>
+        <div  data-class="" data-width="500" style="width: 500px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="6" data-hidewcol="0" id="tb-megamenu-column-22" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-11">
+    <li  data-id="16859" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-tieng-viet-5-tap-1.html"  title="Giải tiếng Việt 5 tập 1">
+                    Giải tiếng Việt 5 tập 1                            </a>
+          </li>
+
+  <li  data-id="16860" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-tieng-viet-5-tap-2.html"  title="Giải Tiếng Việt 5 tập 2">
+                    Giải Tiếng Việt 5 tập 2                            </a>
+          </li>
+
+  <li  data-id="16861" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-tieng-viet-5-tap-1.html"  title="Vnen tiếng Việt 5 tập 1">
+                    Vnen tiếng Việt 5 tập 1                            </a>
+          </li>
+
+  <li  data-id="16862" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vo-bai-tap-tieng-viet-5-tap-1.html"  title="Vở bài tập Tiếng Việt 5 tập 1">
+                    Vở bài tập Tiếng Việt 5 tập 1                            </a>
+          </li>
+
+  <li  data-id="16863" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vo-bai-tap-tieng-viet-5-tap-2.html"  title="Vở bài tập Tiếng Việt 5 tập 2">
+                    Vở bài tập Tiếng Việt 5 tập 2                            </a>
+          </li>
+
+  <li  data-id="16864" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-tieng-viet-5-tap-2.html"  title="Vnen tiếng việt 5 tập 2">
+                    Vnen tiếng việt 5 tập 2                            </a>
+          </li>
+
+  <li  data-id="16865" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/de-thi-mon-toan-lop-5.html"  title="Đề thi môn toán lớp 5">
+                    Đề thi môn toán lớp 5                            </a>
+          </li>
+
+  <li  data-id="16866" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tuyen-tap-van-mau-lop-5.html"  title="Tuyển tập văn mẫu lớp 5">
+                    Tuyển tập văn mẫu lớp 5                            </a>
+          </li>
+
+  <li  data-id="16867" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-toan-lop-5.html"  title="Giải sgk toán lớp 5">
+                    Giải sgk toán lớp 5                            </a>
+          </li>
+
+  <li  data-id="16868" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-vo-bt-toan-lop-5-tap-1.html"  title="Giải vở BT toán lớp 5 tập 1">
+                    Giải vở BT toán lớp 5 tập 1                            </a>
+          </li>
+
+  <li  data-id="16869" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-vo-bt-toan-lop-5-tap-2.html"  title="Giải vở BT toán lớp 5 tập 2">
+                    Giải vở BT toán lớp 5 tập 2                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="6" data-hidewcol="" id="tb-megamenu-column-23" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-13">
+    <li  data-id="16870" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-vnen-lop-5-tap-1.html"  title="Toán VNEN lớp 5 tập 1">
+                    Toán VNEN lớp 5 tập 1                            </a>
+          </li>
+
+  <li  data-id="16871" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-vnen-lop-5-tap-2.html"  title="Toán VNEN lớp 5 tập 2">
+                    Toán VNEN lớp 5 tập 2                            </a>
+          </li>
+
+  <li  data-id="16872" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tieng-anh-5-tap-1.html"  title="Tiếng anh 5 - Tập 1">
+                    Tiếng anh 5 - Tập 1                            </a>
+          </li>
+
+  <li  data-id="16873" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tieng-anh-5-tap-2.html"  title="Tiếng anh 5 - Tập 2">
+                    Tiếng anh 5 - Tập 2                            </a>
+          </li>
+
+  <li  data-id="16874" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-dia-li-5.html"  title="Giải sgk địa lí 5">
+                    Giải sgk địa lí 5                            </a>
+          </li>
+
+  <li  data-id="16875" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-lich-su-5.html"  title="Trắc nghiệm lịch sử 5">
+                    Trắc nghiệm lịch sử 5                            </a>
+          </li>
+
+  <li  data-id="16876" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-toan-5.html"  title="Trắc nghiệm toán 5">
+                    Trắc nghiệm toán 5                            </a>
+          </li>
+
+  <li  data-id="16877" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-dia-li-5.html"  title="Trắc nghiệm địa lí 5">
+                    Trắc nghiệm địa lí 5                            </a>
+          </li>
+
+  <li  data-id="16878" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/lich-su-5.html"  title="Lịch sử 5">
+                    Lịch sử 5                            </a>
+          </li>
+
+  <li  data-id="16879" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-tieng-viet-5.html"  title="Trắc nghiệm tiếng Việt 5">
+                    Trắc nghiệm tiếng Việt 5                            </a>
+          </li>
+
+  <li  data-id="16880" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/dao-duc-lop-5.html"  title="Đạo đức lớp 5">
+                    Đạo đức lớp 5                            </a>
+          </li>
+
+  <li  data-id="16881" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/khoa-hoc-lop-5-sach-vnen.html"  title="Khoa học lớp 5 - Sách VNEN">
+                    Khoa học lớp 5 - Sách VNEN                            </a>
+          </li>
+
+  <li  data-id="16882" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/lich-su-va-dia-li-5-sach-vnen.html"  title="Lịch sử và địa lí 5 - Sách VNEN">
+                    Lịch sử và địa lí 5 - Sách VNEN                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="16883" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+            <a href="/cong-nghe/lop-4.html"  class="dropdown-toggle" title="Lớp 4">
+                    Lớp 4                        <span class="caret"></span>
+                            </a>
+        <div  data-class="" data-width="480" style="width: 480px;" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="6" data-hidewcol="0" id="tb-megamenu-column-24" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-11">
+    <li  data-id="16884" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-tieng-viet-4-tap-1.html"  title="Giải tiếng Việt 4 tập 1">
+                    Giải tiếng Việt 4 tập 1                            </a>
+          </li>
+
+  <li  data-id="16885" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-tieng-viet-4-tap-2.html"  title="Giải tiếng Việt 4 tập 2">
+                    Giải tiếng Việt 4 tập 2                            </a>
+          </li>
+
+  <li  data-id="16886" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-vo-bt-tieng-viet-4-tap-1.html"  title="Giải vở BT tiếng Việt 4 tập 1">
+                    Giải vở BT tiếng Việt 4 tập 1                            </a>
+          </li>
+
+  <li  data-id="16887" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-vo-bt-tieng-viet-4-tap-2.html"  title="Giải vở BT tiếng Việt 4 tập 2">
+                    Giải vở BT tiếng Việt 4 tập 2                            </a>
+          </li>
+
+  <li  data-id="16888" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-tieng-viet-4-tap-1.html"  title="VNEN tiếng việt 4 tập 1">
+                    VNEN tiếng việt 4 tập 1                            </a>
+          </li>
+
+  <li  data-id="16889" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-tieng-viet-4-tap-2.html"  title="VNEN tiếng việt 4 tập 2">
+                    VNEN tiếng việt 4 tập 2                            </a>
+          </li>
+
+  <li  data-id="16890" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/cac-dang-toan-lop-4.html"  title="Các dạng toán lớp 4 thường gặp">
+                    Các dạng toán lớp 4 thường gặp                            </a>
+          </li>
+
+  <li  data-id="16891" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tuyen-tap-bai-van-mau-lop-4.html"  title="Tuyển tập bài văn mẫu lớp 4">
+                    Tuyển tập bài văn mẫu lớp 4                            </a>
+          </li>
+
+  <li  data-id="16892" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-toan-lop-4.html"  title="Giải sgk toán lớp 4">
+                    Giải sgk toán lớp 4                            </a>
+          </li>
+
+  <li  data-id="16893" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-vnen-lop-4-tap-1.html"  title="Toán VNEN lớp 4 tập 1">
+                    Toán VNEN lớp 4 tập 1                            </a>
+          </li>
+
+  <li  data-id="16894" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-vnen-lop-4-tap-2.html"  title="Toán VNEN lớp 4 tập 2">
+                    Toán VNEN lớp 4 tập 2                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+
+<div  data-class="" data-width="6" data-hidewcol="" id="tb-megamenu-column-25" class="tb-megamenu-column span6  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-11">
+    <li  data-id="16895" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-vo-bt-toan-lop-4-tap-1.html"  title="Giải vở BT toán lớp 4 tập 1">
+                    Giải vở BT toán lớp 4 tập 1                            </a>
+          </li>
+
+  <li  data-id="16896" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-vo-bt-toan-lop-4-tap-2.html"  title="Giải vở BT toán lớp 4 tập 2">
+                    Giải vở BT toán lớp 4 tập 2                            </a>
+          </li>
+
+  <li  data-id="16897" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tieng-anh-4-tap-1.html"  title="Tiếng anh 4 - tập 1">
+                    Tiếng anh 4 - tập 1                            </a>
+          </li>
+
+  <li  data-id="16898" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tieng-anh-4-tap-2.html"  title="Tiếng anh 4 - tập 2">
+                    Tiếng anh 4 - tập 2                            </a>
+          </li>
+
+  <li  data-id="16899" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-toan-4.html"  title="Trắc nghiệm toán 4">
+                    Trắc nghiệm toán 4                            </a>
+          </li>
+
+  <li  data-id="16900" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-dia-li-4.html"  title="Giải sgk địa lí 4">
+                    Giải sgk địa lí 4                            </a>
+          </li>
+
+  <li  data-id="16901" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/trac-nghiem-tieng-viet-4.html"  title="Trắc nghiệm tiếng Việt 4">
+                    Trắc nghiệm tiếng Việt 4                            </a>
+          </li>
+
+  <li  data-id="16902" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/lich-su-4.html"  title="Lịch sử 4">
+                    Lịch sử 4                            </a>
+          </li>
+
+  <li  data-id="16903" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/dao-duc-lop-4.html"  title="Đạo đức lớp 4">
+                    Đạo đức lớp 4                            </a>
+          </li>
+
+  <li  data-id="16904" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/khoa-hoc-lop-4-sach-vnen.html"  title="Khoa học lớp 4 - Sách VNEN">
+                    Khoa học lớp 4 - Sách VNEN                            </a>
+          </li>
+
+  <li  data-id="16905" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/lich-su-va-dia-li-4-sach-vnen.html"  title="Lịch sử và địa lí 4 - Sách VNEN">
+                    Lịch sử và địa lí 4 - Sách VNEN                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="16906" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+            <a href="/cong-nghe/lop-3.html"  class="dropdown-toggle" title="Lớp 3">
+                    Lớp 3                        <span class="caret"></span>
+                            </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-26" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-7">
+    <li  data-id="16907" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-tieng-viet-3-tap-1.html"  title="Giải sgk tiếng Việt 3 tập 1">
+                    Giải sgk tiếng Việt 3 tập 1                            </a>
+          </li>
+
+  <li  data-id="16908" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-sgk-tieng-viet-3-tap-2.html"  title="Giải sgk tiếng Việt 3 tập 2">
+                    Giải sgk tiếng Việt 3 tập 2                            </a>
+          </li>
+
+  <li  data-id="16909" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/sgk-toan-lop-3.html"  title="Sgk toán lớp 3">
+                    Sgk toán lớp 3                            </a>
+          </li>
+
+  <li  data-id="16910" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-tieng-viet-3.html"  title="VNEN tiếng việt 3">
+                    VNEN tiếng việt 3                            </a>
+          </li>
+
+  <li  data-id="16911" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-vnen-lop-3.html"  title="Toán VNEN lớp 3">
+                    Toán VNEN lớp 3                            </a>
+          </li>
+
+  <li  data-id="16912" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/giai-vo-bt-toan-lop-3-tap-2.html"  title="Giải vở BT toán lớp 3 tập 2">
+                    Giải vở BT toán lớp 3 tập 2                            </a>
+          </li>
+
+  <li  data-id="16913" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tu-nhien-va-xa-hoi-lop-3-sach-vnen.html"  title="Tự nhiên và xã hội lớp 3 - Sách VNEN">
+                    Tự nhiên và xã hội lớp 3 - Sách VNEN                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="16914" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+            <a href="/cong-nghe/lop-2.html"  class="dropdown-toggle" title="Lớp 2">
+                    Lớp 2                        <span class="caret"></span>
+                            </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-27" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-6">
+    <li  data-id="16915" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-toan-2-tap-1.html"  title="VNEN toán 2 tập 1">
+                    VNEN toán 2 tập 1                            </a>
+          </li>
+
+  <li  data-id="16916" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-toan-2-tap-2.html"  title="VNEN toán 2 tập 2">
+                    VNEN toán 2 tập 2                            </a>
+          </li>
+
+  <li  data-id="16917" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-tieng-viet-2-tap-1.html"  title="VNEN tiếng Việt 2 tập 1">
+                    VNEN tiếng Việt 2 tập 1                            </a>
+          </li>
+
+  <li  data-id="16918" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/vnen-tieng-viet-2-tap-2.html"  title="VNEN tiếng Việt 2 tập 2">
+                    VNEN tiếng Việt 2 tập 2                            </a>
+          </li>
+
+  <li  data-id="16919" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/tu-nhien-va-xa-hoi-2.html"  title="Tự nhiên và xã hội 2">
+                    Tự nhiên và xã hội 2                            </a>
+          </li>
+
+  <li  data-id="16920" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/toan-lop-2.html"  title="Toán lớp 2">
+                    Toán lớp 2                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="16921" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+            <a href="/cong-nghe/ung-dung.html"  class="dropdown-toggle" title="Ứng dụng">
+                    Ứng dụng                        <span class="caret"></span>
+                            </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-28" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-10">
+    <li  data-id="16922" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/youtube.html"  title="Youtube">
+                    Youtube                            </a>
+          </li>
+
+  <li  data-id="16923" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/whatsapp.html"  title="Whatsapp">
+                    Whatsapp                            </a>
+          </li>
+
+  <li  data-id="16924" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/su-dung-twitter.html"  title="Sử dụng Twitter">
+                    Sử dụng Twitter                            </a>
+          </li>
+
+  <li  data-id="16925" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/facebook.html"  title="Facebook">
+                    Facebook                            </a>
+          </li>
+
+  <li  data-id="16926" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/phan-mem-zalo.html"  title="Phần mềm zalo">
+                    Phần mềm zalo                            </a>
+          </li>
+
+  <li  data-id="16927" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/su-dung-gmail.html"  title="Sử dụng gmail">
+                    Sử dụng gmail                            </a>
+          </li>
+
+  <li  data-id="16928" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/su-dung-skype.html"  title="Sử dụng Skype">
+                    Sử dụng Skype                            </a>
+          </li>
+
+  <li  data-id="16929" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/su-dung-instagram.html"  title="Sử dụng Instagram">
+                    Sử dụng Instagram                            </a>
+          </li>
+
+  <li  data-id="16930" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/ung-dung-viber.html"  title="Ứng dụng Viber">
+                    Ứng dụng Viber                            </a>
+          </li>
+
+  <li  data-id="16931" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/ung-dung-cua-google.html"  title="Ứng dụng của Google">
+                    Ứng dụng của Google                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+
+  <li  data-id="16932" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
+            <a href="/cong-nghe/xem-them.html"  class="dropdown-toggle" title="Xem thêm">
+                    Xem thêm                        <span class="caret"></span>
+                            </a>
+        <div  data-class="" data-width="" class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child">
+  <div class="mega-dropdown-inner">
+    <div  class="tb-megamenu-row row-fluid">
+  <div  data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-29" class="tb-megamenu-column span12  mega-col-nav">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+        <ul  class="tb-megamenu-subnav mega-nav level-1 items-10">
+    <li  data-id="16933" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/khoa-hoc-nen-biet.html"  title="Khóa học nên biết">
+                    Khóa học nên biết                            </a>
+          </li>
+
+  <li  data-id="16934" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/thong-tin-du-hoc.html"  title="Thông tin du học">
+                    Thông tin du học                            </a>
+          </li>
+
+  <li  data-id="16935" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/thong-tin-tuyen-sinh.html"  title="Thông tin tuyển sinh">
+                    Thông tin tuyển sinh                            </a>
+          </li>
+
+  <li  data-id="16936" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/su-dung-excel.html"  title="Sử dụng Excel">
+                    Sử dụng Excel                            </a>
+          </li>
+
+  <li  data-id="16937" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/su-dung-word.html"  title="Sử dụng Word">
+                    Sử dụng Word                            </a>
+          </li>
+
+  <li  data-id="16938" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/hoc-lam-web.html"  title="Học làm web">
+                    Học làm web                            </a>
+          </li>
+
+  <li  data-id="16939" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/phan-mem-can.html"  title="Phần mềm cần">
+                    Phần mềm cần                            </a>
+          </li>
+
+  <li  data-id="16940" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/thu-thuat-hay.html"  title="Thủ thuật hay">
+                    Thủ thuật hay                            </a>
+          </li>
+
+  <li  data-id="16941" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/ngu-phap-tieng-anh.html"  title="Ngữ pháp tiếng Anh">
+                    Ngữ pháp tiếng Anh                            </a>
+          </li>
+
+  <li  data-id="16942" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
+            <a href="/cong-nghe/video-hay.html"  title="Video hay">
+                    Video hay                            </a>
+          </li>
+</ul>
+  </div>
+</div>
+</div>
+  </div>
+</div>
+  </li>
+</ul>
+      </div>
+  </div>
+  </div>
+</div>
+  </div>
+
+  </div></div> <!-- /.section, /#header -->
+
+  
+      <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+    <div id="content" class="column"><div class="section">
+        <div class="term_content">
+          <div class="term_left">
+            <div class="content_left">
+              <div class="home_top">
+                <div class="home_top_left">
+                  <div class="view view-home-1 view-id-home_1 view-display-id-default view-dom-id-d40524df4649b312d0a6583430fbe6d3">
+
+
+
+                    <div class="view-content">
+                        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+                            <div class="views-field views-field-field-image">        <div class="field-content"><a href="https://tech12h.com/bai-hoc/danh-muc-bai-soan-va-loi-giai-tat-ca-cac-mon-hoc.html" class="views-ajax-processed-processed"><img typeof="foaf:Image" src="https://tech12h.com/sites/all/themes/bartik/chu.png" width="520" height="300" alt="Danh mục bài soạn và lời giải tất cả các môn học"></a></div>  </div>
+                            <div class="views-field views-field-title">        <span class="field-content"><a href="https://tech12h.com/bai-hoc/danh-muc-bai-soan-va-loi-giai-tat-ca-cac-mon-hoc.html" title="Danh mục bài soạn và lời giải tất cả các môn học" class="views-ajax-processed-processed">Danh mục bài soạn và lời giải tất cả các môn học. Click vào để xem</a></span>  </div>
+                           
+                            <div class="views-field views-field-field-mota">        <div class="field-content">Phần này là danh mục chứa bài soạn và lời giải tất cả các môn, tất cả các lớp học. Các em học sinh click vào để chọn lớp và môn học phù hợp với mình.</div>  </div>  </div>
+                    </div>
+
+
+
+
+
+
+                  </div>                </div>
+                <div class="home_top_right">
+                  <div class="view view-home-1 view-id-home_1 view-display-id-block view-dom-id-e035cec5ce36a8b227e71d6f2df38562">
+
+
+
+                    <div class="view-content">
+                      <div class="views-row views-row-1 views-row-odd views-row-first">
+
+                        <div class="views-field views-field-field-image">        <div class="field-content"><a href="/bai-hoc/ngu-phap-tieng-anh-tat-ca-cac-van-de-tu-den-z.html"><img typeof="foaf:Image" src="https://tech12h.com/sites/default/files/styles/inbody400/public/tong.png" width="210" height="142" alt="Ngữ pháp tiếng Anh tất cả các vấn đề từ A đến Z"></a></div>  </div>
+                        <div class="views-field views-field-title">        <span class="field-content"><a href="/bai-hoc/ngu-phap-tieng-anh-tat-ca-cac-van-de-tu-den-z.html" title="Ngữ pháp tiếng Anh tất cả các vấn đề từ A đến Z ">Ngữ pháp tiếng Anh tất cả các vấn đề từ A đến Z.</a></span>  </div>
+                      </div>
+                      <div class="views-row views-row-2 views-row-even">
+
+                        <div class="views-field views-field-field-image">        <div class="field-content"><a href="/bai-hoc/tuyen-tap-van-mau-hay-nhat-moi-nhat-tu-lop-1-den-lop-12.html"><img typeof="foaf:Image" src="https://tech12h.com/sites/default/files/styles/inbody400/public/3_196.png" width="210" height="142" alt="Tuyển tập văn mẫu, tập làm văn của tất cả các lớp học: từ cấp 1 đến cấp 3"></a></div>  </div>
+                        <div class="views-field views-field-title">        <span class="field-content"><a href="/bai-hoc/tuyen-tap-van-mau-hay-nhat-moi-nhat-tu-lop-1-den-lop-12.html" title="Tuyển tập văn mẫu, tập làm văn của tất cả các lớp học: từ cấp 1 đến cấp 3">Tuyển tập văn mẫu, tập làm văn của tất cả các lớp: từ cấp 1 đến cấp 3</a></span>  </div>
+                        </div>
+                      <div class="views-row views-row-3 views-row-odd">
+
+                        <div class="views-field views-field-field-image">        <div class="field-content"><a href="/bai-hoc/huong-dan-su-dung-tu-den-z-cac-ung-dung-cong-nghe-facebook-skype-word-excel.html"><img typeof="foaf:Image" src="https://tech12h.com/sites/default/files/styles/inbody400/public/4_171.png" width="210" height="142" alt="Hướng dẫn sử dụng các ứng dụng: Facebook, Skype, Word, Excel..."></a></div>  </div>
+                        <div class="views-field views-field-title">        <span class="field-content"><a href="/bai-hoc/huong-dan-su-dung-tu-den-z-cac-ung-dung-cong-nghe-facebook-skype-word-excel.html" title="Hướng dẫn sử dụng các ứng dụng: Facebook, Skype, Word, Excel...">Hướng dẫn sử dụng các ứng dụng: Facebook, Skype, Word, Excel...</a></span>  </div>
+                        </div>
+                      <div class="views-row views-row-4 views-row-even views-row-last">
+
+                        <div class="views-field views-field-field-image">        <div class="field-content"><a href="/bai-hoc/tong-hop-nhung-bai-viet-so-2-ngu-van-6-hay-nhat-voi-day-du-cac-de-5-de.html"><img typeof="foaf:Image" src="https://tech12h.com/sites/default/files/styles/home150x120/public/6_80.jpg?itok=D6R6keFP" width="210" height="142" alt="Tổng hợp những bài viết số 2 ngữ văn 6 hay nhất với đầy đủ các đề (5 đề)"></a></div>  </div>
+                        <div class="views-field views-field-title">        <span class="field-content"><a href="/bai-hoc/tong-hop-nhung-bai-viet-so-2-ngu-van-6-hay-nhat-voi-day-du-cac-de-5-de.html" title="Tổng hợp những bài viết số 2 ngữ văn 6 hay nhất với đầy đủ các đề (5 đề) ">Tổng hợp những bài viết số 2 ngữ văn 6 hay nhất với đầy...</a></span>  </div>
+                        </div>
+                    </div>
+
+
+
+
+
+
+                  </div>                </div>
+				
+              </div>
+               <div class="clear"></div>
+			   <div class="can_giua">
+			   	       					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+					<ins class="adsbygoogle"
+						 style="display:block; text-align:center;"
+						 data-ad-layout="in-article"
+						 data-ad-format="fluid"
+						 data-ad-client="ca-pub-2123039763821226"
+						 data-ad-slot="2476988443"></ins>
+					<script>
+						 (adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+										</div>
+
+			   
+			   
+              <div class="menu_main"><h2><a title="Toán học" href="/cong-nghe/toan-hoc.html">Toán học</a></h2><div class="clear"></div><div class="row_main term_431"><a title="Toán lớp 12" href="/cong-nghe/toan-lop-12.html">Toán lớp 12</a></div><div class="row_main term_151"><a title="Toán lớp 11" href="/cong-nghe/toan-lop-11.html">Toán lớp 11</a></div><div class="row_main term_152"><a title="Toán lớp 10" href="/cong-nghe/toan-lop-10.html">Toán lớp 10</a></div><div class="row_main term_153"><a title="Toán lớp 9" href="/cong-nghe/toan-lop-9.html">Toán lớp 9</a></div><div class="row_main term_154"><a title="Toán lớp 8" href="/cong-nghe/toan-lop-8.html">Toán lớp 8</a></div><div class="row_main term_155"><a title="Toán lớp 7" href="/cong-nghe/toan-lop-7.html">Toán lớp 7</a></div><div class="row_main term_156"><a title="Toán lớp 6" href="/cong-nghe/toan-lop-6.html">Toán lớp 6</a></div><div class="row_main term_1577"><a title="Toán lớp 5" href="/cong-nghe/toan-lop-5.html">Toán lớp 5</a></div><div class="row_main term_1574"><a title="Toán lớp 4" href="/cong-nghe/toan-lop-4.html">Toán lớp 4</a></div><div class="row_main term_1837"><a title="Toán lớp 3" href="/cong-nghe/toan-lop-3.html">Toán lớp 3</a></div><div class="row_main term_1581"><a title="Toán lớp 2" href="/cong-nghe/toan-lop-2.html">Toán lớp 2</a></div><div class="row_main term_1518"><a title="Toán học đời sống" href="/cong-nghe/toan-hoc-doi-song.html">Toán học đời sống</a></div></div> <div class="menu_main"><h2><a title="Soạn văn" href="/cong-nghe/soan-van.html">Soạn văn</a></h2><div class="clear"></div><div class="row_main term_159"><a title="Soạn văn 12" href="/cong-nghe/soan-van-12.html">Soạn văn 12</a></div><div class="row_main term_160"><a title="Soạn văn 11" href="/cong-nghe/soan-van-11.html">Soạn văn 11</a></div><div class="row_main term_1243"><a title="Ngữ văn 10" href="/cong-nghe/ngu-van-10.html">Ngữ văn 10</a></div><div class="row_main term_162"><a title="Ngữ văn 9" href="/cong-nghe/ngu-van-9.html">Ngữ văn 9</a></div><div class="row_main term_163"><a title="Ngữ văn 8" href="/cong-nghe/ngu-van-8.html">Ngữ văn 8</a></div><div class="row_main term_164"><a title="Ngữ văn 7" href="/cong-nghe/ngu-van-7.html">Ngữ văn 7</a></div><div class="row_main term_165"><a title="Soạn văn 6" href="/cong-nghe/soan-van-6.html">Soạn văn 6</a></div><div class="row_main term_1615"><a title="Tiếng Việt 5" href="/cong-nghe/tieng-viet-5.html">Tiếng Việt 5</a></div><div class="row_main term_1661"><a title="Tiếng Việt 4" href="/cong-nghe/tieng-viet-4.html">Tiếng Việt 4</a></div><div class="row_main term_1679"><a title="Tiếng Việt 3" href="/cong-nghe/tieng-viet-3.html">Tiếng Việt 3</a></div><div class="row_main term_1663"><a title="Wiki ngữ văn" href="/cong-nghe/wiki-ngu-van.html">Wiki ngữ văn</a></div></div> <div class="menu_main"><h2><a title="Tiếng Anh" href="/cong-nghe/tieng-anh.html">Tiếng Anh</a></h2><div class="clear"></div><div class="row_main term_192"><a title="Tiếng anh 12" href="/cong-nghe/tieng-anh-12.html">Tiếng anh 12</a></div><div class="row_main term_193"><a title="Tiếng anh 11" href="/cong-nghe/tieng-anh-11.html">Tiếng anh 11</a></div><div class="row_main term_194"><a title="Tiếng anh 10" href="/cong-nghe/tieng-anh-10.html">Tiếng anh 10</a></div><div class="row_main term_1748"><a title="Tiếng Anh 9" href="/bai-hoc/tieng-anh-9-giai-bai-tap-tieng-anh-9-chi-tiet.html">Tiếng Anh 9</a></div><div class="row_main term_1791"><a title="Tiếng Anh 8" href="/cong-nghe/tieng-anh-8.html">Tiếng Anh 8</a></div><div class="row_main term_1792"><a title="Tiếng Anh 7" href="/cong-nghe/tieng-anh-7.html">Tiếng Anh 7</a></div><div class="row_main term_1876"><a title="Tiếng Anh 6" href="/cong-nghe/tieng-anh-6.html">Tiếng Anh 6</a></div><div class="row_main term_1758"><a title="Tiếng Anh 5" href="/bai-hoc/tieng-anh-5-giai-bai-tap-tieng-anh-5-chi-tiet-de-hieu.html">Tiếng Anh 5</a></div><div class="row_main term_1801"><a title="Tiếng anh 4" href="/bai-hoc/tieng-anh-4-giai-bai-tap-tieng-anh-4-chi-tiet-de-hieu.html">Tiếng anh 4</a></div><div class="row_main term_1504"><a title="Ngữ pháp tiếng Anh" href="/cong-nghe/ngu-phap-tieng-anh.html">Ngữ pháp tiếng Anh</a></div></div> <div class="clear"></div><div class="menu_main"><h2><a title="Vật lý" href="/cong-nghe/vat-ly.html">Vật lý</a></h2><div class="clear"></div><div class="row_main term_168"><a title="Vật lý lớp 12" href="/cong-nghe/vat-ly-lop-12.html">Vật lý lớp 12</a></div><div class="row_main term_169"><a title="Vật lý lớp 11" href="/cong-nghe/vat-ly-lop-11.html">Vật lý lớp 11</a></div><div class="row_main term_170"><a title="Vật lý lớp 10" href="/cong-nghe/vat-ly-lop-10.html">Vật lý lớp 10</a></div><div class="row_main term_171"><a title="Vật lý lớp 9" href="/cong-nghe/vat-ly-lop-9.html">Vật lý lớp 9</a></div><div class="row_main term_172"><a title="Vật lý lớp 8" href="/cong-nghe/vat-ly-lop-8.html">Vật lý lớp 8</a></div><div class="row_main term_173"><a title="Vật lý lớp 7" href="/cong-nghe/vat-ly-lop-7.html">Vật lý lớp 7</a></div><div class="row_main term_174"><a title="Vật lý lớp 6" href="/cong-nghe/vat-ly-lop-6.html">Vật lý lớp 6</a></div></div> <div class="menu_main"><h2><a title="Lịch sử" href="/cong-nghe/lich-su.html">Lịch sử</a></h2><div class="clear"></div><div class="row_main term_208"><a title="Lịch sử 12" href="/cong-nghe/lich-su-12.html">Lịch sử 12</a></div><div class="row_main term_209"><a title="Lịch sử 11" href="/cong-nghe/lich-su-11.html">Lịch sử 11</a></div><div class="row_main term_210"><a title="Lịch sử 10" href="/cong-nghe/lich-su-10.html">Lịch sử 10</a></div><div class="row_main term_211"><a title="Lịch sử 9" href="/cong-nghe/lich-su-9.html">Lịch sử 9</a></div><div class="row_main term_212"><a title="Lịch sử 8" href="/cong-nghe/lich-su-8.html">Lịch sử 8</a></div><div class="row_main term_1244"><a title="Lịch sử 7" href="/cong-nghe/lich-su-7.html">Lịch sử 7</a></div><div class="row_main term_214"><a title="Lịch sử 6" href="/cong-nghe/lich-su-6.html">Lịch sử 6</a></div><div class="row_main term_1763"><a title="Lịch sử 5" href="/cong-nghe/lich-su-5.html">Lịch sử 5</a></div><div class="row_main term_1740"><a title="Lịch sử 4" href="/cong-nghe/lich-su-4.html">Lịch sử 4</a></div></div> <div class="menu_main"><h2><a title="Địa lí" href="/cong-nghe/dia-li.html">Địa lí</a></h2><div class="clear"></div><div class="row_main term_1076"><a title="Giải sgk địa lí 12" href="/cong-nghe/giai-sgk-dia-li-12.html">Giải sgk địa lí 12</a></div><div class="row_main term_201"><a title="Giải sgk địa lí 11" href="/cong-nghe/giai-sgk-dia-li-11.html">Giải sgk địa lí 11</a></div><div class="row_main term_202"><a title="Giải sgk Địa lí 10" href="/cong-nghe/giai-sgk-dia-li-10.html">Giải sgk Địa lí 10</a></div><div class="row_main term_203"><a title="Giải sgk địa lí 9" href="/cong-nghe/giai-sgk-dia-li-9.html">Giải sgk địa lí 9</a></div><div class="row_main term_204"><a title="Giải sgk địa lí 8" href="/cong-nghe/giai-sgk-dia-li-8.html">Giải sgk địa lí 8</a></div><div class="row_main term_205"><a title="Giải sgk địa lí 7" href="/cong-nghe/giai-sgk-dia-li-7.html">Giải sgk địa lí 7</a></div><div class="row_main term_206"><a title="Giải sgk địa lí 6" href="/cong-nghe/giai-sgk-dia-li-6.html">Giải sgk địa lí 6</a></div><div class="row_main term_1768"><a title="Giải sgk địa lí 5" href="/cong-nghe/giai-sgk-dia-li-5.html">Giải sgk địa lí 5</a></div><div class="row_main term_1741"><a title="Giải sgk địa lí 4" href="/cong-nghe/giai-sgk-dia-li-4.html">Giải sgk địa lí 4</a></div></div> <div class="clear"></div><div class="menu_main row_50"><h2><a title="Sinh học" href="/cong-nghe/sinh-hoc.html">Sinh học</a></h2><div class="clear"></div><div class="row_main term_184"><a title="Sinh học 12" href="/cong-nghe/sinh-hoc-12.html">Sinh học 12</a></div><div class="row_main term_185"><a title="Sinh học 11" href="/cong-nghe/sinh-hoc-11.html">Sinh học 11</a></div><div class="row_main term_186"><a title="Sinh học 10" href="/cong-nghe/sinh-hoc-10.html">Sinh học 10</a></div><div class="row_main term_187"><a title="Sinh học 9" href="/cong-nghe/sinh-hoc-9.html">Sinh học 9</a></div><div class="row_main term_188"><a title="Sinh học 8" href="/cong-nghe/sinh-hoc-8.html">Sinh học 8</a></div><div class="row_main term_189"><a title="Sinh học 7" href="/cong-nghe/sinh-hoc-7.html">Sinh học 7</a></div><div class="row_main term_190"><a title="Sinh học 6" href="/cong-nghe/sinh-hoc-6.html">Sinh học 6</a></div></div> <div class="menu_main row_50 row_2"><h2><a title="Hóa học" href="/cong-nghe/hoa-hoc.html">Hóa học</a></h2><div class="clear"></div><div class="row_main term_176"><a title="Hóa học 12" href="/cong-nghe/hoa-hoc-12.html">Hóa học 12</a></div><div class="row_main term_1844"><a title="Hoá học 11" href="/cong-nghe/hoa-hoc-11.html">Hoá học 11</a></div><div class="row_main term_178"><a title="Hóa học 10" href="/cong-nghe/hoa-hoc-10.html">Hóa học 10</a></div><div class="row_main term_179"><a title="Hóa học 9" href="/cong-nghe/hoa-hoc-9.html">Hóa học 9</a></div><div class="row_main term_180"><a title="Hóa học 8" href="/cong-nghe/hoa-hoc-8.html">Hóa học 8</a></div></div> <div class="clear mobile"></div><div class="menu_main row_50"><h2><a title="GDCD" href="/cong-nghe/gdcd.html">GDCD</a></h2><div class="clear"></div><div class="row_main term_219"><a title="GDCD 10" href="/cong-nghe/gdcd-10.html">GDCD 10</a></div><div class="row_main term_218"><a title="GDCD 11" href="/cong-nghe/gdcd-11.html">GDCD 11</a></div><div class="row_main term_217"><a title="GDCD 12" href="/cong-nghe/gdcd-12.html">GDCD 12</a></div><div class="row_main term_220"><a title="GDCD 9" href="/cong-nghe/gdcd-9.html">GDCD 9</a></div><div class="row_main term_221"><a title="GDCD 8" href="/cong-nghe/gdcd-8.html">GDCD 8</a></div><div class="row_main term_222"><a title="GDCD 7" href="/cong-nghe/gdcd-7.html">GDCD 7</a></div><div class="row_main term_223"><a title="GDCD 6" href="/cong-nghe/gdcd-6.html">GDCD 6</a></div><div class="row_main term_1887"><a title="Đạo đức lớp 5" href="/cong-nghe/dao-duc-lop-5.html">Đạo đức lớp 5</a></div><div class="row_main term_1891"><a title="Đạo đức lớp 4" href="/cong-nghe/dao-duc-lop-4.html">Đạo đức lớp 4</a></div></div> <div class="clear desktop"></div><div class="menu_main row_50 row_2"><h2><a title="Học làm web" href="/cong-nghe/hoc-lam-web.html">Học làm web</a></h2><div class="clear"></div><div class="row_main term_86"><a title="Học HTML" href="/cong-nghe/hoc-html.html">Học HTML</a></div><div class="row_main term_87"><a title="Học CSS" href="/cong-nghe/hoc-css.html">Học CSS</a></div><div class="row_main term_120"><a title="Học jQuery" href="/cong-nghe/hoc-jquery.html">Học jQuery</a></div><div class="row_main term_226"><a title="Học Angular" href="/cong-nghe/hoc-angular.html">Học Angular</a></div><div class="row_main term_225"><a title="Học PHP" href="/cong-nghe/hoc-php.html">Học PHP</a></div></div> <div class="clear mobile"></div><div class="menu_main row_50"><h2><a title="Ứng dụng" href="/cong-nghe/ung-dung.html">Ứng dụng</a></h2><div class="clear"></div><div class="row_main term_110"><a title="Youtube" href="/cong-nghe/youtube.html">Youtube</a></div><div class="row_main term_92"><a title="Whatsapp" href="/cong-nghe/huong-dan-su-dung-whatsapp-toan-tap-cam-nang-tu-z.html">Whatsapp</a></div><div class="row_main term_103"><a title="Sử dụng Twitter" href="/cong-nghe/su-dung-twitter.html">Sử dụng Twitter</a></div><div class="row_main term_21"><a title="Facebook" href="/cong-nghe/thu-thuat-facebook-toan-tap-cam-nang-tu-den-z.html">Facebook</a></div><div class="row_main term_44"><a title="Phần mềm zalo" href="/cong-nghe/huong-dan-su-dung-zalo-toan-tap-cam-nang-tu-den-z.html">Phần mềm zalo</a></div><div class="row_main term_22"><a title="Sử dụng gmail" href="/cong-nghe/su-dung-gmail.html">Sử dụng gmail</a></div><div class="row_main term_23"><a title="Sử dụng Skype" href="/cong-nghe/su-dung-skype.html">Sử dụng Skype</a></div><div class="row_main term_74"><a title="Sử dụng Instagram" href="/cong-nghe/su-dung-instagram.html">Sử dụng Instagram</a></div><div class="row_main term_78"><a title="Ứng dụng Viber" href="/cong-nghe/ung-dung-viber.html">Ứng dụng Viber</a></div><div class="row_main term_121"><a title="Ứng dụng của Google" href="/cong-nghe/ung-dung-cua-google.html">Ứng dụng của Google</a></div></div> <div class="menu_main row_50 row_2"><h2><a title="Xem thêm" href="/bai-gop/xem-them-nhung-van-de-huu-ich-khac.html">Xem thêm</a></h2><div class="clear"></div><div class="row_main term_109"><a title="Dịch vụ nhà mạng" href="/cong-nghe/dich-vu-nha-mang.html">Dịch vụ nhà mạng</a></div><div class="row_main term_25"><a title="Sử dụng Excel" href="/cong-nghe/huong-dan-hoc-excel-tu-co-ban-den-nang-cao-cam-nang-tu-den-z.html">Sử dụng Excel</a></div><div class="row_main term_24"><a title="Sử dụng Word" href="/cong-nghe/huong-dan-hoc-microsoft-word-tu-cac-thao-tac-co-ban-den-nang-cao.html">Sử dụng Word</a></div><div class="row_main term_26"><a title="Sử dụng PowerPoint" href="/cong-nghe/su-dung-powerpoint.html">Sử dụng PowerPoint</a></div><div class="row_main term_1508"><a title="Tin giáo dục" href="/cong-nghe/tin-giao-duc.html">Tin giáo dục</a></div><div class="row_main term_5"><a title="Học làm web" href="/cong-nghe/hoc-lam-web.html">Học làm web</a></div><div class="row_main term_38"><a title="Phần mềm cần" href="/cong-nghe/phan-mem-can.html">Phần mềm cần</a></div><div class="row_main term_6"><a title="Thủ thuật hay" href="/cong-nghe/thu-thuat-hay.html">Thủ thuật hay</a></div><div class="row_main term_107"><a title="Tin công nghệ" href="/cong-nghe/tin-cong-nghe.html">Tin công nghệ</a></div><div class="row_main term_125"><a title="Video hay" href="/cong-nghe/video-hay.html">Video hay</a></div></div> <div class="clear"></div>            </div>
+          </div>
+          <div class="term_right">
+            <div class="content_right">
+			
+			
+
+                <div class="thong_bao">
+                    <h2> Thông tin cần biết</h2>
+                    <div class="view view-m-i-nh-t view-id-m_i_nh_t view-display-id-default view-dom-id-fcd3c69e46a6514b4036731bd09666aa">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/bai-hoc/du-hoc-dai-loan-han-chot-nop-ho-so-hoc-bong-cho-khoa-thang-9-nam-2020.html" title="Du học Đài Loan: Hạn chót nộp hồ sơ học bổng cho khóa tháng 9 năm 2020 ">Du học Đài Loan: Hạn chót nộp hồ sơ học bổng cho khóa tháng 9 năm 2020</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/bai-hoc/du-hoc-ba-lan-2020-dieu-kien-de-dang-va-chi-phi-cuc-re.html" title="Du học Ba Lan 2020: Điều kiện dễ dàng và chi phí cực rẻ ">Du học Ba Lan 2020: Điều kiện dễ dàng và chi phí cực rẻ</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/bai-hoc/hoc-bong-hoc-vien-amity-singapore-2020.html" title="Học bổng học viện Amity Singapore 2020 ">Học bổng học viện Amity Singapore 2020</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/bai-hoc/truong-xin-hoc-bong-khong-lo-dau-ra-voi-dai-hoc-kings.html" title="Trường xịn - học bổng to - không lo đầu ra với đại học King&#039;s ">Trường xịn - học bổng to - không lo đầu ra với đại học King&#039;s</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/bai-hoc/du-lich-khach-san-nganh-hoc-chua-bao-gio-het-hot-tai-uc.html" title="Du lịch khách sạn - ngành học chưa bao giờ hết hot tại Úc ">Du lịch khách sạn - ngành học chưa bao giờ hết hot tại Úc</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>                </div>
+
+              <div class="thong_bao">
+                <h2> Thông báo</h2>
+                               <div class="tex2jax"><div class="thong_bao">
+<div class="views-row"><a href="https://tech12h.com/basic-page/tech12h-live-stream-truc-tiep-ngay-28112018.html">Tech12h livestream - trực tiếp ngày 28/11/2019 =&gt; Đăng ký tham gia</a></div>
+<div class="views-row"><a title="Share - chia sẻ lên Facebook là được nhận quà cập nhật 03/2018" href="https://tech12h.com/basic-page/share-chia-se-len-facebook-la-duoc-nhan-qua.html">Chỉ cần share - chia sẻ lên Facebook là được nhận quà [cập nhật 03/2018]</a></div>
+</div>
+</div>              </div>
+
+              <div class="luyen_thi">
+                <h2>Luyện thi THPT quốc gia 2018</h2>
+                                <div class="tex2jax"><div class="views-row"><a title="Luyện thi trắc nghiệm môn Toán" href="https://tech12h.com/bai-hoc/de-1-luyen-thi-thptqg-mon-toan-nam-2018.html">Luyện thi trắc nghiệm môn Toán</a></div>
+<div class="views-row"><a title="Luyện thi trắc nghiệm môn Vật Lí" href="https://tech12h.com/bai-hoc/de-1-luyen-thi-tpptqg-mon-vat-li-nam-2018.html">Luyện thi trắc nghiệm môn Lý</a></div>
+<div class="views-row"><a title="Luyện thi trắc nghiệm môn Hoá" href="https://tech12h.com/bai-hoc/de-1-luyen-thi-thptqg-mon-hoa-nam-2018.html">Luyện thi trắc nghiệm môn Hoá</a></div>
+<div class="views-row"><a title="Luyện thi trắc nghiệm môn sinh" href="https://tech12h.com/bai-hoc/de-1-luyen-thi-tpptqg-mon-sinh-nam-2018.html">Luyện thi trắc nghiệm môn Sinh</a></div>
+<div class="views-row"><a title="Luyện thi TPHT quốc gia môn sử năm 2019" href="https://tech12h.com/bai-hoc/de-1-luyen-thi-thptqg-mon-lich-su-nam-2019.html">Luyện thi trắc nghiệm môn Sử</a></div>
+<div class="views-row"><a title="Luyện thi thpt quốc gia môn địa năm 2019" href="https://tech12h.com/bai-hoc/de-1-luyen-thi-thptqg-mon-dia-li-nam-2019.html">Luyện thi trắc nghiệm môn Địa</a></div>
+<div class="views-row"><a title="Luyện thi thpt quốc gia môn GDCD 2018" href="https://tech12h.com/bai-hoc/de-1-luyen-thi-tpptqg-mon-gdcd-nam-2018.html">Luyện thi trắc nghiệm môn GDCD</a></div>
+</div>              </div>
+              <div class="du_hoc can_giua">
+
+              </div>
+
+              <div class="right_3">
+                <h2> Đề thi mới nhất</h2>
+                <div class="view view-m-i-nh-t view-id-m_i_nh_t view-display-id-block_1 view-dom-id-3c1e5f660ef0c8756c9993de194947cc">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/bai-hoc/giao-vnen-bai-co-nang-t2.html" title="Giáo án VNEN bài Cơ năng (T2) ">Giáo án VNEN bài Cơ năng (T2)</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/bai-hoc/thi-thptqg-2020-de-thi-va-dap-chinh-thuc-cua-bo-gd-mon-ngu-van.html" title="Thi THPTQG 2020: Đề thi và đáp án chính thức của Bộ GD môn Ngữ văn ">Thi THPTQG 2020: Đề thi và đáp án chính thức của Bộ GD môn Ngữ văn</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/bai-hoc/thi-thpqg-2020-de-thi-va-dap-mon-lich-su.html" title="Thi THPQG 2020: Đề thi và đáp án môn Lịch sử ">Thi THPQG 2020: Đề thi và đáp án môn Lịch sử</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/bai-hoc/thi-thpqg-2020-de-thi-va-dap-mon-dia-li.html" title="Thi THPQG 2020: Đề thi và đáp án môn Địa lí ">Thi THPQG 2020: Đề thi và đáp án môn Địa lí</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/bai-hoc/thi-thpqg-2020-de-thi-va-dap-mon-dia-li-ma-de-324.html" title="Thi THPQG 2020: Đề thi và đáp án môn Địa lí mã đề 324 ">Thi THPQG 2020: Đề thi và đáp án môn Địa lí mã đề 324</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/bai-hoc/thi-thpqg-2020-de-thi-va-dap-mon-dia-li-ma-de-323.html" title="Thi THPQG 2020: Đề thi và đáp án môn Địa lí mã đề 323 ">Thi THPQG 2020: Đề thi và đáp án môn Địa lí mã đề 323</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>              </div>
+           
+            </div>
+          </div>
+        </div>
+    </div></div> <!-- /.section, /#content -->
+
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-menu-menu-menu-bottom" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu clearfix"><li class="first leaf"><a href="/" title="" class="active">﻿Trang chủ</a></li>
+<li class="leaf"><a href="/cong-nghe/lop-12.html" title="">Lớp 12</a></li>
+<li class="leaf"><a href="/cong-nghe/lop-11.html" title="">Lớp 11</a></li>
+<li class="leaf"><a href="/cong-nghe/lop-10.html" title="">Lớp 10</a></li>
+<li class="leaf"><a href="/cong-nghe/lop-9.html" title="">Lớp 9</a></li>
+<li class="leaf"><a href="/cong-nghe/lop-8.html" title="">Lớp 8</a></li>
+<li class="leaf"><a href="/cong-nghe/lop-7.html" title="">Lớp 7</a></li>
+<li class="leaf"><a href="/cong-nghe/lop-6.html" title="">Lớp 6</a></li>
+<li class="leaf"><a href="/cong-nghe/lop-5.html" title="">Lớp 5</a></li>
+<li class="leaf"><a href="https://tech12h.com/cong-nghe/ung-dung.html" title="">Ứng dụng</a></li>
+<li class="leaf"><a href="https://tech12h.com/cong-nghe/thu-thuat-facebook-toan-tap-cam-nang-tu-den-z.html" title="">Facebook</a></li>
+<li class="last leaf"><a href="https://tech12h.com/cong-nghe/xem-them.html" title="">Xem thêm</a></li>
+</ul>  </div>
+</div>
+<div id="block-my-nd-footer-1" class="block block-my">
+
+    
+  <div class="content">
+    <div class="nd_logo_duoi"> <div class="logo_duoi"><a href="https://tech12h.com/" title="Trang chủ"><img src="/sites/all/themes/bartik/images/logo_duoi.jpg"></a></div><div class="form_duoi desktop"><p>Liện hệ: 0386 168 725</p>
+                   <p><input type="text" name="email"><input type="submit" value="Gửi"></p>
+              </div></div>  </div>
+</div>
+<div id="block-my-nd-footer-2" class="block block-my">
+
+    
+  <div class="content">
+    <div class="nd_foo row_1"><a title="Giới thiệu" href="https://tech12h.com/basic-page/gioi-thieu-ve-tech12hcom.html">Giới thiệu</a></div><div class="nd_foo row_2"><a title="Điều khoản sử dụng" href="https://tech12h.com/basic-page/dieu-le-su-dung-va-ban-quyen.html">Điều khoản sử dụng</a></div><div class="nd_foo row_3"><a title="Liên hệ" href="https://tech12h.com/basic-page/lien-he.html">Liên hệ</a> | <a title="tuyen dung" href="https://tech12h.com/basic-page/tuyen-dung-tech12h.html">Tuyển Dụng</a></div><div class="nd_foo row_4"><a class="fb" href="https://www.facebook.com/tech12dotcom/">Facebook</a><a class="yt" href="https://www.youtube.com/channel/UCf47NBUDLt280tYAby9qV-Q">| Youtube</a></div>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.10&appId=1439865049640999";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+</body>
+
+</html>
