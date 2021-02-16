@@ -17,6 +17,7 @@ import (
 
 	// "md5"
 	// "hex"
+	"runtime"
 	"github.com/PuerkitoBio/goquery"
 	"github.com/gocolly/colly"
 	"github.com/gosimple/slug"
@@ -40,60 +41,74 @@ func main() {
 	links := processXml.ReadSiteMap("sitemap.xml")
 	visitLink(links)
 }
-
 func visitLink(urlSet processXml.Urlset) {
+	const maxConcurrent = 5
+	var totalLink int
+	totalLink = len(urlSet.Urls)
+	// totalLink = 6
 	wg := new(sync.WaitGroup)
-	queueLink := make(chan string, 5)
-	var limit int
-	limit = len(urlSet.Urls)
-	limit = 2
-	for i := 0; i < limit; i++ {
+	queueLink := make(chan string, totalLink)
+	for i := 0; i < totalLink; i++ {
 		linkTemp := urlSet.Urls[i].Loc;
 		fmt.Println("Queue Link: ", linkTemp)
 		queueLink <- linkTemp
+		wg.Add(i)
 	}
 
-	for i := 1; i<= 5; i++ {
-		wg.Add(1)
-		go fetchURL(wg, queueLink)
+	for i := 1; i<= maxConcurrent; i++ {
+		fetchURL(queueLink, wg)
 	}
 	wg.Wait()
+	fmt.Println("FINISH")
 }
 
-func fetchURL(wg *sync.WaitGroup, queueLink <-chan string) string {
-	defer wg.Done()
-	link := <- queueLink
-	random := rand.Intn(5-1) + 1
-	time.Sleep(time.Duration(random) * time.Second)
-	fmt.Println("Start Crawl Post")
-	c := colly.NewCollector(
-		colly.AllowedDomains("tech12h.com"),
-	)
+func fetchURL(queueLink <-chan string, wg *sync.WaitGroup) chan bool {
+	quit := make(chan bool)
+	go func() {
+		for {
+			select {
+				case <- quit: break
+				case link := <-queueLink:
+					random := rand.Intn(5-1) + 1
+					time.Sleep(time.Duration(random) * time.Second)
+					fmt.Println("Start Crawl Post")
+					c := colly.NewCollector(
+						colly.AllowedDomains("tech12h.com"),
+					)
 
-	c.Limit(&colly.LimitRule{
-		Parallelism: 2,
-		RandomDelay: 3 * time.Second,
-	})
+					c.Limit(&colly.LimitRule{
+						Parallelism: 2,
+						RandomDelay: 3 * time.Second,
+					})
 
-	re := regexp.MustCompile("[^/]+$")
-	alias := re.FindString(link);
-	alias = strings.Replace(alias, ".html", "", 1)
-	fmt.Println("Alias: ", alias)
-	c.OnRequest(func(r *colly.Request) {
-		fmt.Println("Crawling... ", r.URL)
-	})
+					re := regexp.MustCompile("[^/]+$")
+					alias := re.FindString(link);
+					alias = strings.Replace(alias, ".html", "", 1)
+					fmt.Println("Alias: ", alias)
+					c.OnRequest(func(r *colly.Request) {
+						fmt.Println("Crawling... ", r.URL)
+					})
 
-	c.OnHTML("html body.page-node", func(e *colly.HTMLElement) {
-		getPostPage(link, alias, e);
-	})
+					c.OnHTML("html body.page-node", func(e *colly.HTMLElement) {
+						getPostPage(link, alias, e);
+					})
 
-	c.OnHTML("html body.page-taxonomy", func(e *colly.HTMLElement) {
-		getCategoryPage(link, alias, e);
-	})
+					c.OnHTML("html body.page-taxonomy", func(e *colly.HTMLElement) {
+						getCategoryPage(link, alias, e);
+					})
 
-	c.Visit(link)
+					c.Visit(link)
+					wg.Done()
+			}
+			runtime.Gosched()
+		}
+	}()
+
+	return quit;
+	// defer wg.Done()
+
 	// <- link
-	return alias;
+	// return alias;
 }
 
 func getPostPage(link string, alias string, e *colly.HTMLElement) bool {
@@ -125,8 +140,12 @@ func getPostPage(link string, alias string, e *colly.HTMLElement) bool {
 		categoryParent: categoryParent}
 
 	// Lưu dữ liệu bài viết vào DB
-	insertData(postInfo)
-	fmt.Printf("Inserted: %q\n", title)
+	inserted := insertData(postInfo)
+	if inserted == true {
+		fmt.Printf("Inserted: %q\n", title)
+	} else {
+		fmt.Printf("NOT Inserted: %q\n", title)
+	}
 	return true
 }
 
@@ -138,6 +157,9 @@ func getCategoryPage(link string, alias string, e *colly.HTMLElement) bool {
 	querySelection := e.DOM
 
 	title = querySelection.Find(".nd_my h2:first-child").Text()
+	if title == "" {
+		title = querySelection.Find(".h2_title").Text()
+	}
 	slugName = slug.Make(title)
 
 	avatar = getThumbnail(slugName, querySelection);
@@ -160,8 +182,12 @@ func getCategoryPage(link string, alias string, e *colly.HTMLElement) bool {
 		categoryParent: categoryParent}
 
 	// Lưu dữ liệu bài viết vào DB
-	insertData(postInfo)
-	fmt.Printf("Inserted: %q\n", title)
+	inserted := insertData(postInfo)
+	if inserted == true {
+		fmt.Printf("Inserted: %q\n", title)
+	} else {
+		fmt.Printf("NOT Inserted: %q\n", title)
+	}
 	return true
 }
 
@@ -207,12 +233,24 @@ func getThumbnail(slugName string, querySelection *goquery.Selection) string {
 	return avatar
 }
 
-func insertData(data Post) {
+func insertData(data Post) bool{
 	db := database.DBConn()
-	insPost, err := db.Prepare("INSERT INTO posts (post_type, title, alias, avatar, content, slug, category, category_parent) VALUES(?, ?, ?, ?, ?, ?, ?, ?)")
-	handleError(err)
-	insPost.Exec(data.postType, data.title, data.alias, data.avatar, data.content, data.slugName, data.category, data.categoryParent)
+	var alias string
+	sqlStatement := `SELECT alias FROM posts WHERE alias=?;`
+	row := db.QueryRow(sqlStatement, data.alias)
+	err := row.Scan(&alias)
+	if err == nil {
+		fmt.Println("SELECT RESULT", alias)
+	}
+	if err != nil {
+		insPost, err := db.Prepare("INSERT INTO posts (post_type, title, alias, avatar, content, slug, category, category_parent) VALUES(?, ?, ?, ?, ?, ?, ?, ?)")
+		handleError(err)
+		insPost.Exec(data.postType, data.title, data.alias, data.avatar, data.content, data.slugName, data.category, data.categoryParent)
+		return true
+	}
+
 	defer db.Close()
+	return false;
 }
 
 func handleError(e error) {
