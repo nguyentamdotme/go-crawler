@@ -18,6 +18,7 @@ import (
 	// "md5"
 	// "hex"
 	"runtime"
+
 	"github.com/PuerkitoBio/goquery"
 	"github.com/gocolly/colly"
 	"github.com/gosimple/slug"
@@ -41,15 +42,40 @@ func main() {
 	links := processXml.ReadSiteMap("sitemap.xml")
 	visitLink(links)
 }
-func visitLink(urlSet processXml.Urlset) {
+
+func Find(a []string, x string) int {
+        for i, n := range a {
+                if x == n {
+                        return i
+                }
+        }
+        return -1;
+}
+
+func visitLink(urlSet processXml.Urlset) string {
 	const maxConcurrent = 5
 	var totalLink int
 	totalLink = len(urlSet.Urls)
 	// totalLink = 6
+
+	linksDoneRaw := processXml.ReadSiteMap("sitemap-done.xml")
+	var linksDoneTotal int
+	linksDoneTotal = len(linksDoneRaw.Urls)
+	// fmt.Print(linksDoneTotal);
+	linksDone := make([]string, linksDoneTotal);
+	for l := 0; l < linksDoneTotal; l++ {
+		linksDone[l] = linksDoneRaw.Urls[l].Loc
+	}
+
 	wg := new(sync.WaitGroup)
 	queueLink := make(chan string, totalLink)
 	for i := 0; i < totalLink; i++ {
 		linkTemp := urlSet.Urls[i].Loc;
+		isNewLink := Find(linksDone, linkTemp)
+		if isNewLink >= 0 {
+			// fmt.Println(linkTemp)
+			continue;
+		}
 		fmt.Println("Queue Link: ", linkTemp)
 		queueLink <- linkTemp
 		wg.Add(i)
@@ -60,6 +86,7 @@ func visitLink(urlSet processXml.Urlset) {
 	}
 	wg.Wait()
 	fmt.Println("FINISH")
+	return "FINISH"
 }
 
 func fetchURL(queueLink <-chan string, wg *sync.WaitGroup) chan bool {
